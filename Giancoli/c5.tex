@@ -1,0 +1,114 @@
+\section{Circular Motion; Gravitation}
+An object that experiences a force at an angle to its direction of motion, it is moving in a curved path, called circular motion. In this section, all object are assumed to be in circular motion unless otherwise stated
+
+\subsection{Kinematics of Uniform Circular Motion}
+\begin{itemize}
+    \item An object in circular motion with a constant velocity is said to be in \textbf{uniform circular motion}
+    \item \textbf{Centripetal Acceleration} - Also called \emph{radial acceleration} this is acceleration experienced by an object in circular motion, even if velocity is constant, the object is constantly changing direction and therefore accelerating. This is calculated by \[a_R=\frac{v^2}{r}\] Where $a_R$ is centripetal acceleration, $v^2$ is the square of the linear velocity, and $r$ is the radius of the circular path
+    \item \textbf{Frequency} - The number of revolutions in a circle an object makes per second
+    \item \textbf{Period} - The amount of time it takes an object to make a single revolution, calculated with \[T=\frac{1}{f}\] Where $T$ is period and $f$ is frequency
+    \item The velocity of an object in motion can be calculated with \[v=\frac{2\pi r}{T}\]
+\end{itemize}
+
+\subsection{Dynamics of Uniform Circular Motion}
+\begin{itemize}
+    \item The centripetal force experienced by an object is calculated with \[\Sigma F_R=m\frac{v^2}{r}\]
+    \item A net force must be directed towards the center of the circle if an object is to continue circular motion
+    \item Centrifugal (or outward rotational force) is \emph{not} a true force, the outward feeling is caused by the momentum of the object making it want to continue in a straight line instead of a curved path
+\end{itemize}
+
+\subsection{Highway Curves: Banked and Unbanked}
+\begin{itemize}
+    \item A common application of circular dynamics is simulating a car on a curved path, called a curve. A banked curve is a curve at an angle relative to the ground
+    \item A car in motion on the road without slipping tires has its tires experiencing static friction, if the centripetal force of friction is too great then they will slip and experience kinetic friction 
+    \item Banking curves reduces reliance on friction, the case in which the centripetal acceleration is equal to the pushing force caused by gravity is when the following is true
+    \[F_N\sin\theta=m\frac{v^2}{r}\] Which is called the \textbf{design speed} of the banked curve
+\end{itemize}
+
+\subsection{Nonuniform Circular Motion}
+\begin{itemize}
+    \item Sometimes, objects in circular motion also accelerate their \emph{tangential} velocities
+    \item The acceleration of an object in motion has two components, its \emph{tangential} acceleration and its \emph{centripetal} acceleration, they are perpendicular so the total acceleration of an object in circular motion can be found by \[a=\sqrt{a_{tan}^2+a_{cen}^2}\]
+\end{itemize}
+
+\subsection{Newton's Law of Universal Gravitation}
+\begin{itemize}
+    \item Newton discovered that the Force of gravity on an object is proportional to its distance from Earth, or anything else attracting it, represented by \[F_G=\propto\frac{1}{r^2}\] Where r is the distance from the center of the object to the center of the Earth
+    \item Force of gravity is also represented by \[F_G\propto\frac{m_gm_{obj}}{r^2}\] Where $m_g$ is the mass of the Earth and $m_{obj}$ is the mass of the object
+    \item \textbf{Law of Universal Gravitation} - Every particle in the universe attracts every other particle with a force that is proportional to the product of their masses and inversely proportional to the square of the distance between them. This force acts along the line joining the 2 particles
+    \item Gravitational force between 2 objects is calculated by \[F_G=G\frac{m_1m_2}{r^2}\] Where $m_1$ and $m_2$ are the masses of the objects, and G is the universal gravitational constant
+    \item The magnitude of gravitational force is calle an \emph{inverse square law} because the force of gravity is inversely proportional to $r^2$
+    \item The universal gravitational constant is defined as \[G=\frac{6.67*10^{-11}N*m^2}{kg^2}\]
+\end{itemize}
+
+\subsection{Gravity Near the Earth's Surface}
+\begin{itemize}
+    \item Comparing the two ways to calculate the force of gravity of Earth gives \[mg=G\frac{mm_E}{r_E^2}\] Thus \[g=G\frac{m_E}{r_E^2}\] Therefore an object's distance from Earth's center affects the force of gravity on it
+    \item Note that Earth is not a perfect sphere and so the previous equation does not give perfectly precise answers, but the impact is negligible
+\end{itemize}
+
+\subsection{Satellites and "Weightlessness"}
+\textbf{Satellite Motion}
+\begin{itemize}
+    \item For a satellite to successfully orbit Earth, its centripetal force must be equal to the force of gravity from Earth on it, represented by \[G\frac{mm_E}{r^2}=m\frac{v^2}{r}\] Solving for velocity gives \[v=\sqrt{\frac{Gm_E}{r}}\] Which gives the velocity a satellite must travel to remain in orbit at a given distance
+\end{itemize}
+\textbf{Weightlessness}
+\begin{itemize}
+    \item \textbf{Apparent Weightlessness} - When an object relative to a reference point appears to not have weight but gravity still exists
+    \item Weightlessness can be experienced in a freely falling elevator or satellite, since they are technically falling towards Earth, just fast enough so that they miss Earth
+\end{itemize}
+
+\subsection{Planets, Kepler's Laws, and Newton's Synthesis}
+\begin{itemize}
+    \item \textbf{Geocentric View} - The belief that Earth is at the center of the Universe
+    \item \textbf{Heliocentric View} - The belief that the Sun is at the center of the solar system
+\end{itemize}
+\textbf{Kepler's Laws}
+\begin{itemize}
+    \item \textbf{Kepler's First Law} - The path of each planet around the sun is an ellipse with the sun at one focus
+    \item \textbf{Kepler's Second Law} - Each planet moves so that an imaginary line drawn from the Sun to the planet sweeps out equal areas in equal periods of time
+    \item \textbf{Kepler's Third Law} - The ratio of the squares of the periods of any two planets revolving around the Sun is equal to the ratio of the cubes of their mean distances from the sun, represented by \[(\frac{T_1}{T_2})^2=(\frac{s_1}{s_2})^3\] which can rewritten as \[\frac{s_1^3}{T_1^2}=\frac{s_2^3}{T_2^2}\]
+\end{itemize}
+\textbf{Kepler's Third Law Derived, Sun's Mass, Perturbations}
+\begin{itemize}
+    \item Kepler's third law can be rearranged to give \[(\frac{T_1}{T_2})^2=(\frac{r_1}{r_2})^3\]
+    \item \textbf{Perturbation} - Deviations in the orbit of objects caused by other objects in orbit, such as the effect of planets on each other
+\end{itemize}
+\textbf{Other Centers for Kepler's Laws}
+\begin{itemize}
+    \item The equation derived above can be applied to other situations such as satellites orbiting Earth
+\end{itemize}
+\textbf{Distant Planetary Systems}
+\begin{itemize}
+    \item Planets around distant stars were predicted to exist because of the "wobble" effect they induced on their stars due to gravity
+\end{itemize}
+\textbf{Newton's Synthesis}
+\begin{itemize}
+    \item \textbf{Causal Law} - Sometimes Newton's laws are labelled this because they \emph{cause} each other
+    \item \textbf{Deterministic View} - A way of looking at the universe as a machine whose parts' movement can be determined
+\end{itemize}
+\textbf{Sun/Earth Reference Frames}
+\begin{itemize}
+    \item The heliocentric and geocentric views described earlier are different reference frames, but there does not exist a single preferred reference frame as zooming out always introduces new interactions and movements
+\end{itemize}
+
+\subsection{Moon Rises an Hour Later Each Day}
+\begin{itemize}
+    \item The moon's orbit takes 24hr50min meaning it does not align exactly with Earth's rotation
+    \item Because of this, the moon needs more time to completely align with Earth and the Sun and thus new moons do not occur every day
+\end{itemize}
+
+\subsection{Types of Forces in Nature}
+\begin{itemize}
+    \item The four fundamental forces are the
+    \begin{itemize}
+        \item Gravitational Force
+        \item Electromagnetic Force
+        \item Strong Nuclear Force
+        \item Weak Nuclear Force
+    \end{itemize}
+    \item Attempts to unify these forces into a single theory have been attempted and given mixed results
+    \item Other forces like friction are due to the electric repulsion between objects' electrons when they touch
+\end{itemize}
+
+\newpage

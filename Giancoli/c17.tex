@@ -1,0 +1,178 @@
+\section{Electric Potential}
+This section covers the use of electricity for energy, and applies the law of conservation of energy
+
+\subsection{Electric Potential Energy and Potential Difference}
+\textbf{Electric Potential Energy}
+\begin{itemize}
+    \item The work done by an electric field to move a charge a distance is \[W=Fd=qEd\] Where F is force of the electric field, d is the distance moved, q is the charge, and E is the electric field
+    \item Change in electic potential energy is the negative of the work done by electric force \[PE_b-PE_a=-qEd\]
+    \item Note the previous two equations apply only to a uniform electric field
+\end{itemize}
+
+\textbf{Electric Potential and Potential Difference}
+\begin{itemize}
+    \item \textbf{ELectric Potential} - ELectric potential energyper unit charge, calculated by \[V=\frac{PE_a}{q}\] Which represents the potential energy of a charge at a point a divided by the magnitude of the charge
+    \item \textbf{Difference in Potential} - Only \emph{differences} in potential energy are maeningful, this is the difference in potential energy of two points a and b
+    \item When a force does mechanical work, the change in potential between points a and b is \[V_{ba}=V_b-V_a=\frac{PE_b-PE_a}{q}\]
+    \item \textbf{Voltage} - Another name for potential difference, measured in \emph{volts}
+    \item Change in potential energy is equal to the product of the charge and volatge \[\Delta=qV_{ba}\]
+\end{itemize}
+
+\subsection{Relation Between Electric Potential and Electric Field}
+\begin{itemize}
+    \item Work done by an electric field is the negative of the charge times voltage, \[W=-qV_{ba}\]
+    \item Solving for electric field gives \[E=-\frac{V_{ba}}{d}\] 
+    \item Notes that units for electric field can be volts per meter (\(v/m\))or newtons per coulombs (\(N/C\))
+\end{itemize}
+
+\textbf{General Relation Between E and V}
+\begin{itemize}
+    \item It can be said that the electric field in a direction at any point is equal to the rate at which the electric potential decreases over distance in that direction
+    \item FOr example, the electric field in the x direction over a small distance x is \[E_x=-\frac{\Delta V}{\Delta x}\]
+\end{itemize}
+
+\textbf{Breakdown Voltage}
+\begin{itemize}
+    \item \textbf{Breakdown} - Occurs in air when electric field exceeds about \(3*10^6V/m\), electrons are knocked out of molecules in air
+\end{itemize}
+
+\subsection{Equipotential Lines and Surfaces}
+\begin{itemize}
+    \item \textbf{Equipotential Surface} - A surface where all points are at the same potential
+    \item An equipotential surface must be perpendicular to the electric field at any point
+    \item The entire volume of a conductor must be entirely at the same potential in the static case, since there is no electric field in the conductor
+\end{itemize}
+
+\subsection{The Electron Volt, a Unit of Energy}
+\begin{itemize}
+    \item \textbf{Electron VOlt} - Symbol is eV, unit of energy equivalent to one elementary charge moving through 1V of potential difference \[1eV=1.6022*10^-19J\]
+    \item Not a proper unit, should be converted to J
+\end{itemize}
+
+\subsection{Electric Potential Due to Point Charges}
+\begin{itemize}
+    \item \textbf{Coulomb's Potential} - Electric potential at a distance from a point charge is \[V=k\frac{Q}{r}=\frac{1}{r\pi\epsilon_0}\frac{Q}{r}\] 
+    For a single point charge, V=0 and r=\(\infty\)
+    \item Finding the electric field due to multiple point charges, can be found by adding each electric field vectorially, all that is needed is the charge and position of each point charge
+\end{itemize}
+
+\subsection{Potential Due to Electric Dipole; Dipole Moment}
+\begin{itemize}
+    \item \textbf{Electric Dipole} - Two point charges of opposite charge but equal magnitude, divided by a distance
+    \item The potential difference at a point due to a dipole is the sum of the potentials due to each charge, \[V=\frac{kQ}{r}+\frac{k(-Q)}{r+\Delta r}=kQ(\frac{\Delta r}{r(r+\Delta r})\]
+    \item \textbf{Dipole Moment} - Potential difference cause by a dipole at an arbitrary point, equal to distance between charge times magnitude of charge, \[V\approx\frac{kp\cos\theta}{r^2}\]
+    \item \textbf{Polar Molecules} - Molecules that have a dipole moment
+\end{itemize}
+
+\subsection{Capacitance}
+\begin{itemize}
+    \item \textbf{Capacitor} - A device that can store electrical charge, consisting of two conducting objects placed near each other
+    \item Also called condensers as they condense large amounts of electrical energy
+    \item In circuit diagrams, the symbol for capacitors is 
+    \begin{center}
+\begin{circuitikz} \draw
+(0,0) to[ capacitor ] (2,0); 
+\end{circuitikz}
+\end{center}
+    \item IN circuit diagrams, the symbol for a voltage source is 
+   \begin{center}
+\begin{circuitikz} \draw
+(0,0) to[ battery ] (2,0); 
+\end{circuitikz}
+\end{center}
+Where the larger end represents the positive end and the smaller end represents the negative
+    \item The amount of charge held by each plate in the capacitor is calculated by \[Q=CV\] Where V is the potential difference bteween the plates and C is the capacitance
+    \item \textbf{Capacitance} - Measured in coulombs per volt or \emph{farads}
+    \item Capacitance between two parallel plates can be calculated by \[C=\epsilon_0\frac{A}{d}\] Where A is the area of the plates and d is the distance between the plates, \(\epsilon_0\) is the permittivity of free space
+    \item \textbf{Condenser Microphone} - Uses a capacitor in the microphone to detect changed in air pressure 
+\end{itemize}
+
+\textbf{Derivation of Capacitance for Parallel Plate Capacitor}
+\begin{itemize}
+    \item Plugging the equation for voltage into \(C=\frac{Q}{V}\) gives \[C=\frac{Q}{(Q/A\epsilon_0)d}=\] Which simplifies to \[C=\epsilon_0\frac{A}{d}\]
+\end{itemize}
+
+\subsection{Dielectrics}
+\begin{itemize}
+    \item \textbf{Dielectric} - Materials that break don less readliy than air, usually placed between plates in a capacitor
+    \item \textbf{Dielectric Constant} - Unique to various materials, this increases the capacitance of a capacitor depending on the dielectric
+    \item \textbf{Dielectric Strength} - The maximum electric field before breakdown occurs
+\end{itemize}
+
+\textbf{Moleculr Description of Dielectric} - 
+\begin{itemize}
+    \item Electric field within the dielectric of a capacitor is less than it would be in air, which causes a voltage decrease
+    \item To keep Q constant in \(Q=CV\), capacitance must increase
+\end{itemize}
+
+\subsection{Storage of Electric Energy}
+\begin{itemize}
+    \item The work done to move the total charge Q from one plate to another is \[W=Q\frac{V_1}{2}\]
+    \item Thus the potential energy stored in a capacitor is \[PE=\frac{1}{2}QV\]
+    \item The potential can also be calculated as \[PE=\frac{1}{2}\epsilon_0E^2Ad\] 
+\end{itemize}
+
+\textbf{Health Effects}
+\begin{itemize}
+    \item Ventricular Fibrillation occurs when the heart beats fast irregular rates
+    \item This can be solved by a defribillator which is a capacitor charged to a high voltage, which stops the heart and is normally followed by regular heart rhythm
+\end{itemize}
+
+\subsection{Digital; Binary Numbers; Signal Voltage}
+\begin{itemize}
+    \item \textbf{Supply Voltage} - A constant voltage used to power devices
+    \item \textbf{Signal Voltage} - A variable voltage used to affect something else
+    \item \textbf{Analog} - Describes signal voltages that vary continuously
+    \item \textbf{Digital} - Voltages with only two possible values, on or off
+    \item \textbf{Decimal} - Latin for 10
+    \item \textbf{Binary} - Describes a number system where each digit or \emph{bit} has two possibilities, 1 or 0
+    \item Each place in binary increases in value by a power of 2
+    \item Digital information is contained in a \emph{byte} which contains 8 bits allowing for \(2^8=256\) possible values
+    \item \textbf{Analog to Digital Converter} - A device that converts analog voltages to digital 
+    \item\textbf{Digital to Analog Converter} - A device that converts digital voltages to analog 
+    \item \textbf{Quantization Error} - Loss in the original analog signal by an analog to digital converter, can be mitigated by increasing bit depth and sampling rate
+    \item \textbf{Bit Depth} - Number of bits for a given voltage
+    \item \textbf{Sampling Rate} - Number of times per second the original signal is measured
+    \item Digital data can be \emph{compressed} in order to tak eup less storage space
+    \item \textbf{Bandwidth} - Fixed range of frequencies allotted to a radio or tv station or internet connection
+\end{itemize}
+
+\textbf{Noise}
+\begin{itemize}
+    \item \textbf{Noise} - Unwanted electrical signals from external sources
+\end{itemize}
+
+\subsection{TV and Computer Monitors; CRTs, Flat Screens}
+\textbf{CRT}
+\begin{itemize}
+    \item \textbf{CRT} - Stands for Cathode Ray Tube, a device that depends on thermionic emission, allows for deflection of an electron beam
+    \item The electrodes in a CRT are the cathode, or negative, and anode, or positive
+    \item CRTs emit rays of negative charge called cathode rays but now known as electrons
+    \item \textbf{Grid} - Component of CRTs that limits how many electrons can escape by producing a negative voltage
+    \item \textbf{Color Screens} - May also use CRTs but each pixel has red, blue, and green phsophors that glow when hit by an electron
+\end{itemize}
+
+\textbf{Flat Screens and Addressing PIxels}
+\begin{itemize}
+    \item \textbf{Pixel} - Short for picture elements, consist of 3 subpixels, one red, blue, and green, to produce a picture
+    \item \textbf{Addressing} - The process of providing each pixel in a display with the correct voltage, done by providing voltage to only one row of pixels at a time
+\end{itemize}
+
+\textbf{Active Matrix}
+\begin{itemize}
+    \item \textbf{Active Matrix} - Used in displays, each pixel has a thin-film transistor which can block or allow a voltage
+\end{itemize}
+
+\textbf{Oscilloscopes}
+\begin{itemize}
+    \item \textbf{Oscilloscope} - A device used to amplify, measure, and display electrical signals
+\end{itemize}
+
+\subsection{Electrocardiogram}
+\begin{itemize}
+    \item \textbf{Electrocardiogram (EKG)} - Used to record tha potential changes in a person's heart
+    \item Cells are polar, when muscle cells contract they "depolarize" which emits a voltage
+    \item When the heart beats the tiny voltages produced by each muscle cell add up and can be measured
+\end{itemize}
+
+\newpage

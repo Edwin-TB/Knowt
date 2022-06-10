@@ -1,0 +1,117 @@
+\section{Describing Motion: Kinematics in One Dimension}
+The study of motion, forces, and energy form the field of mechanics, the movement of stuff. Mechanics is divides into kinematics, how objects move, and dynamics, why objects move. Motion without rotation is called translational motion. Point particles, objects with no mathematical size, will be used to simulate translational motion.
+
+\subsection{Reference Frames and Displacement}
+\begin{itemize}
+    \item \textbf{Frame of Reference} - Location from which measurements are made
+    \begin{itemize}
+        \item Example - If you are in a moving vehicle, observations made about stationary objects passing by would make it seem like they are moving
+    \end{itemize}
+    \item \textbf{Coordinate Axes} - Used to represent frames of reference and directions. The origin and directions of the axes can be placed anywhere for convenience
+    \item \textbf{Origin} - Center of a coordinate plane, where both x and y directions equal 0, graphed as (0,0)
+    \item \textbf{Position} - Where an object is with respect to its reference frame
+    \item In one dimensional motion, if an object is moving horizontally, it is usually graphed on the x-axis, but if it is falling then it is graphed on the y-axis
+    \item \textbf{Displacement} - Different from distance traveled, this is how far an object has moved from its starting point
+    \item An object can move a greater distance than its displacement, it can go in a circle around its point of origin but end up in the same spot which would give it some distance but no displacement
+    \item \textbf{Vector} - Quantities representing both magnitude and direction
+    \begin{itemize}
+        \item Example - An object's displacement can be represented with a vector, if it moves 40 meters up, the coordinate plane would show an arrow 40 meters long pointing up
+    \end{itemize}
+    \item \textbf{Change in} - Used often in physics, the change in a value is the final value minus the initial value, shown below: \[x_f-x_i=\Delta x\]
+    Where the f and i subscripts mean final and initial respectively and $\Delta$ represents "change in"
+\end{itemize}
+
+\subsection{Average Velocity}
+\begin{itemize}
+    \item \textbf{Average Speed} - Distance traveled by an object divided by the time it takes to travel that distance \[average\ speed=\frac{distance\ traveled}{time\ elapsed}\]
+    \item \textbf{Average Velocity} - A vector that quantifies average speed along with direction, it can be negative if the object is moving in a negative direction\[average\ velocity=\frac{displacement}{time\ elapsed}=\frac{final\ position-initial\ position}{time\ elapsed}\]
+    \item It is important to note that average speed is defined in terms of \textbf{distance} while average velocity is defined in terms of \textbf{displacement}
+    \item \textbf{Time Elapsed} - Defined as change in time or $\Delta$time
+    \item \textbf{Time Interval} - Points in time between which time elapsed is measured, represented as \[t_f-t_i=\Delta t\]
+    \item Average velocity is more formally represented as \[\vec{v}=\frac{x_f-x_i}{t_f-t_i}=\frac{\Delta x}{\Delta t}\]
+    \item Note that average velocity is just that, the \emph{average}, even if an object changes velocity during the time interval, the average between the two velocities is what's important
+\end{itemize}
+
+\subsection{Instantaneous Velocity}
+\begin{itemize}
+    \item \textbf{Instantaneous Velocity} - The average velocity over an infinitely short time interval, represented by \[v=\lim_{\Delta t\to 0}\frac{\Delta x}{\Delta t}\]
+    \item While it seems counter intuitive, instantaneous velocity is just the velocity an object is traveling at at any given point in time
+    \begin{itemize}
+        \item Example - an object increasing in velocity at a rate of $1\frac{m}{s}$ every second would have an instantaneous velocity of $2\frac{m}{s}$ after 2 seconds
+    \end{itemize}
+    \item Graphs could also be used to determine instantaneous velocity, in a velocity vs time graph, the instantaneous velocity at any point in time would be given by its corresponding y-coordinate
+\end{itemize}
+
+\subsection{Acceleration}
+\begin{itemize}
+    \item \textbf{Acceleration} - A change in either the magnitude or direction of velocity, represented by
+    \[average\ velocity=\frac{change\ of\ velocity}{time\ elapsed}\]
+    \item \textbf{Average Acceleration} - Change in velocity over a given time interval, represented by \[\vec{a}=\frac{v_f-v_i}{t_f-v_i}=\frac{\Delta v}{\Delta t}\]
+    \item \textbf{Instantaneous Acceleration} - Similar to instantaneous velocity, this is the acceleration of an object at any given point in time, represented by \[v=\lim_{\Delta t\to 0}\frac{\Delta v}{\Delta t}\]
+    \item Acceleration is measured in meters per second per second or \[\frac{m}{s^2}\]
+    \begin{itemize}
+        \item Example - An object is travelling at $3\frac{m}{s}$ accelerates to $27\frac{m}{s}$ in 8 seconds, its averave acceleration is \[\vec{a}=\frac{27\frac{m}{s}-3\frac{m}{s}}{8s}=\frac{24\frac{m}{s}}{8s}=3\frac{m}{s^2}\]
+    \end{itemize}
+    \item \textbf{Deceleration} - When an object is decreasing in velocity
+    \item Note that deceleration does not necessarily mean acceleration is negative, if an object is moving in the negative direction and slows down, the acceleration is actually positive
+\end{itemize}
+
+\subsection{Motion and Constant Acceleration}
+\begin{itemize}
+    \item \textbf{Constant Acceleration} - The same acceleration over a given time period
+    \item To solve for final velocity after constant acceleration, the formula for average acceleration can be manipulated to solve for final velocity: \[a=\frac{\Delta v}{\Delta t}=\frac{v_f-v_i}{\Delta t}\]
+    \[a\Delta t =v_f-v_i\]
+    \[v_f=v_i+a\Delta t\]
+    \item To solve for final position after constant acceleration, the following formula is used \[x_f=x_i+v_o\Delta t+\frac{1}{2}a\Delta t^2\]
+    \item To solve for final velocity when time is not given, the following formula is used \[v_f^2=v_i^2+2a\Delta x\]
+    \item The four most important equations for objects in constant acceleration are 
+    \begin{itemize}
+        \item $v_f=v_i+a\Delta t$
+        \item $x_f=x_i+v_o\Delta t+\frac{1}{2}a\Delta t^2$
+        \item $v_f^2=v_i^2+2a\Delta x$
+        \item $\vec{v}=\frac{v_f-v_i}{2}$
+    \end{itemize}
+\end{itemize}
+
+\subsection{Solving Problems}
+\begin{itemize}
+    \item There are many strategies students can use to determine what a word problem is asking and what formulas can be used to solve it
+    \item For problems concerning constant acceleration, determine the object studied and time interval during which it is moving 
+    \item Draw a diagram of the problem with coordinate axes, determine which quantities are "known" and which are unknown
+    \item Determine which equations for the unknowns can be solved using current known values, this may require some manipulation to solve for the unknown
+    \item Calculate the answer and determine if it is reasonable to the problem, would a snail be able to accelerate to 100$\frac{m}{s}$? 
+    \item Make sure the units of your answer are correct with dimensional analysis
+\end{itemize}
+
+\subsection{Freely Falling Objects}
+\begin{itemize}
+    \item Common example of constant acceleration in one dimension, free-fall problems analyze the acceleration of objects, well, falling freely
+    \item It is important to note that the distance travelled by objects in free-fall is proportional to the square of the time during which they fell, represented by \[d\propto t^2\]
+    \item Air resistance is not considered since it is beyond the scope of this unit, therefore all objects no matter how heavy fall with the same acceleration
+    \item The acceleration due to Earth's gravity is 9.80$\frac{m}{s^2}$, sometimes rounded to 10.0$\frac{m}{s^2}$
+    \item Not every problem will have an object that is dropped, sometimes the object may be thrown up before coming down or thrown down, in these cases the initial velocity is crucial
+    \item Sometimes, problems involving constant acceleration will involve quadratic equations with more than one solution, in these cases the "unphysical" answer is ignored, such as a negative time interval
+    \item The acceleration of some objects may be given in multiples of Earth's acceleration, called g's
+    \begin{itemize}
+        \item Example - A space shuttle travelling at 6.00g's would have an acceleration of \[6.00g's*\frac{9.80\frac{m}{s^2}}{g}=58.8\frac{m}{s^2}\]
+    \end{itemize}
+\end{itemize}
+
+\subsection{Graphical Analysis of Linear Motion}
+\textbf{Velocity as Slope}
+\begin{itemize}
+    \item In a position vs time graph, the slope is \[slope=\frac{\Delta x}{\Delta t}\]
+    \item Note that it is equivalent to the definition for velocity, therefore the slope of a position vs time graph is the velocity of the object
+    \item When the slope is not linear, the average velocity between a given time period can be found the exact same way,\[v=\frac{\Delta x}{\Delta t}\] Where the positions are the y values of the time inputs
+    \item The line connecting the points graphed by $(t_1,x_1)$ and $(t_2,x_2)$ is called a chord and has the same slope as the average velocity
+    \item Moving the point of $(t_2,x_2)$ infinitely close to the point on $(t_1,x_1)$ will turn the chord into a tangent to the curve
+    \item The slope at the tangent would be the instantaneous velocity at that point, look into differentiation in calculus to learn more about how to do this
+\end{itemize}
+\textbf{Slope and Acceleration}
+\begin{itemize}
+    \item Similar to velocity, acceleration is the slope of a velocity vs time graph
+    \item Average acceleration between 2 points is given by \[a=\frac{\Delta v}{\Delta t}\]
+    \item Instantaneous acceleration is given by the tangent to the graph at any point
+\end{itemize}
+
+\newpage

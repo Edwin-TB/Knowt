@@ -1,0 +1,125 @@
+\section{Electric Currents}
+When charges move along a conductor, an electric field is needed. Current requires a potential difference to flow
+
+\subsection{The Electric Battery}
+\begin{itemize}
+    \item Contact between dissimilar metals with some moisture can produce a voltage
+\end{itemize}
+
+\textbf{Electric Cells and Batteries}
+\begin{itemize}
+    \item \textbf{Electrodes} - Two plates of dissimilar metals in a battery
+    \item \textbf{Electrolyte} - A solution or acid the electrodes are submersed in
+    \item \textbf{Electric Cell} - A combination of electrodes and electrolytes, multiples connected cells form a battery
+    \item \textbf{Terminal} - The part of each electrode outside the electrolye
+\end{itemize}
+
+\textbf{Electric Cars}
+\begin{itemize}
+    \item \textbf{Lithium-ion} -  A battery type used by electric cars whic uses lithium as its anode and carbon as its cathode
+    \item \textbf{Range} - How far an electric vehicle can travel on a single charge
+\end{itemize}
+
+\subsection{Electric Current}
+\begin{itemize}
+    \item The symbol for a battery is 
+    \begin{center}
+\begin{circuitikz} \draw
+(0,0) to[ battery ] (2,0); 
+\end{circuitikz}
+\end{center}
+    \item \textbf{Electric Current} - Any flow of charge, defined as the net charge that passes through a wire per unit time, \[I=\frac{\Delta Q}{\Delta t}\]
+    \item \textbf{Ampere} - Unit of current defined as coulombs per second \[1A=1C/s\]
+    \item Current can only flow when there is a continuous path or \emph{complete circuit}
+    \item \textbf{Closed Circuit} - Describes a circuit with a break, such as a cut wire
+    \item \textbf{Conventional Current} - The direction where positive charge flows
+    \item \textbf{Electron Current} - The direction where negative charge flows
+    \item\textbf{Ampere-Hour} - Unit of charge, defined as \[1A*h\]
+\end{itemize}
+
+\subsection{Ohm's Law: Resistance and Resistors}
+\begin{itemize}
+    \item Current is proportional to voltage \[I\propto V\]
+    \item \textbf{Resistance} - Caused by collisions within a conductor, defines as the proportionality factor between V and I
+    \item \textbf{Ohm's Law} - Relates voltage, current, and resistance \[V=IR\]
+    \item \textbf{Ohm} - Unit of resistance, defined as \[1.0\Omega=1.0V/A\]
+    \item The circuit symbol for a resistor is 
+    \begin{center}
+\begin{circuitikz} \draw
+(0,0) to[ resistor ] (2,0); 
+\end{circuitikz}
+\end{center}
+    \item \textbf{Voltage Drop} - The voltage decrease across a resistor
+\end{itemize}
+
+\textbf{Some Helpful Clarification}
+\begin{itemize}
+    \item Voltage is applied across a wire
+    \item Current flows through the wire
+    \item Current is not a vector
+    \item Input and output charge and current are always the same 
+\end{itemize}
+
+\subsection{Resistivity}
+\begin{itemize}
+    \item The resistance of a conductor is calculated with \[R=\rho\frac{l}{A}\] WHere \(\rho\) is the constant of proportionality of the material or \emph{resistivity}, l is the length of the conductor, and A is the cross-sectional area
+\end{itemize}
+
+\textbf{Temperature Dependence of Resistivity}
+\begin{itemize}
+    \item Resistance of metals generally increases with temperature
+    \item The change in resistivity due to a change in temperature can be calculated by \[\rho_T=\rho_0[1+\alpha(T-T_0)\] Where \(T_0\) is the reference temperature and \(\alpha\) is the temperature coefficient of resistivity which is unique to each material
+    \item Very large temperature variances may require equations different than the previous one as \(\alpha\) itself can vary with temperature
+\end{itemize}
+
+\subsection{Electric Power}
+\begin{itemize}
+    \item Convenctional filament light bulbs only release about 10% of the energy inppupt into them as light, the rest is converted to heat
+    \item The power transformed by an electrical device is calculated by \[P=\frac{energy\ transformed}{time}=\frac{QV}{t}\]
+    \item Charge that flows per second, Q/t, is current, \(I\) thus power is \[P=IV\] WIth the same units as mechanical power, Watts
+    \item Power in terms of resistance is \[P=I^2R\] or \[P=\frac{V^2}{R}\]
+\end{itemize}
+
+\subsection{Power in Household Circuits}
+\begin{itemize}
+    \item \item WHen a wire carries ore current than is safe, it is considered \emph{overloaded} 
+    \item \textbf{Circuit Breaker} - Switches on circuits that open the circuit when it exceeds a safe value
+    \item \textbf{Short} - An instance in which two wires in a circuit touch when they are not supposed to
+    \item \textbf{Parallel Circuits} - CIrcuits Designed so that each connected device is individually connected to the voltage source
+\end{itemize}
+
+\subsection{Alternating Current}
+\begin{itemize}
+    \item \textbf{Direct Current} - Electricity that moves steadily in one direction, called DC
+    \item \textbf{ALternating Current} - Electric current that reverses directions in a sinusoidal fashion
+    \item The voltage and current produced by an AC source is sinusoidal, the voltage as a function of time is \[V=V_0\sin 2\pi ft=V_0\sin\omega t\] Where f is the oscillations made per second and \(\omega\) is equal to \(2\pi f\)
+    \item \textbf{Peak Voltage} - The highest magnitude of voltage in AC, represented by \(V_0\)
+    \item Current can be calculated by \[I=I_0\sin\omega t\]
+    \item \textbf{Peak Current} - The maximum magnitude of current in AC, calculated by \[I_0=V_)/R\]
+    \item Average power can be calculated by \[P=\frac{1}{2}I_0^2R\] or \[P=\frac{1}{2}\frac{V_0^2}{R}\]
+    \item \textbf{Root Mean Square} - Also called \emph{rms}, this is the average value of voltae or current in AC, calculated by \[I_{rms}=0.707I_0\] and \[V_{rms}=0.707V_0\]
+\end{itemize}
+
+\subsection{Microscopic View of Electric Current}
+\begin{itemize}
+    \item \textbf{Drift Velocity} - The average velocity of electrons moving in a conductor
+    \item The magnitude of current can be calculated by \[I=neAv_d\] Where n is the total number of electrons, e is the fundamentl charge, A is the cross sectional area through which current flows, and \(v_d\) is the drift velocity
+    \item Electric fields travel at the speed of light
+\end{itemize}
+
+\subsection{Superconductivity}
+\begin{itemize}
+    \item \textbf{Superconducting} - Occursat very low temperatures, this is when the resistivity of a material becomes nearly 0
+    \item Occurs at a critical temperature, \(T_C\) usually within a few degrees of absolute 0
+    \item Current work is focused on making materials with higher critical temperature to remove the need for intense cooling 
+\end{itemize}
+
+\subsection{Electrical Conduction in the Human Nervous System}
+\begin{itemize}
+    \item \textbf{Neuron} - the most basic element of the nervous system, transmits electricl signals
+    \item \textbf{Dipole Layer} - Difference in charge across the cell membrane of a neuron, resting potential across the layer is \[V_{inside}-V_{outside}\]
+    \item \textbf{Action Potential} - The voltage across a neuron when it is "fired"
+    \item Ions are the main driver behind neuron activation
+\end{itemize}
+
+\newpage

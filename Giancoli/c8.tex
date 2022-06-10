@@ -1,0 +1,101 @@
+\section{Rotational Motion}
+For our purposes, we will consider the rotational motion of rigid objects around a fixed (non-moving) axis. Rigid objects are objects with a definite shape that does not change.
+
+\subsection{Angular Quantities}
+\begin{itemize}
+    \item \textbf{Axis of rotation} - The point at which all other points of an object rotate around
+    \item \textbf{Angular position} - How far a point or object has travelled around its axis of rotation, measured in radians 
+    \item \textbf{Radian} - Unit of angular position, defined as the length of the arc an object travels in rotation divided by the radius, or the distance an object is from the axis of rotation, represented as \[\theta=\frac{l}{r}\] or \[l=r\theta\]Where \(\theta\) is radians, l is length, and r is radius
+    \item Note that for any radius, a full rotation around an axis of rotation is \(2\pi\)radians
+    \item \textbf{Average Angular Velocity} - Like average velocity, but it measures the change in angular position over time, represented by \[\omega=\frac{\Delta\theta}{\Delta t}\]
+    \item \textbf{Instantaneous Angular Velocity} - The rotational analogue to instantaneous linear velocity, this is the velocity of rotation at a specific point in time, represented by \[\omega=\lim_{\Delta \to 0}\frac{\Delta\theta}{\Delta t}\]
+    \item The tangential (linear) velocity of an object in rotational motion is calculated with \[v=r\omega\]
+    \item The tangential (linear) acceleration of an object in rotational motion is calculated with \[a_{tan}=r\frac{\Delta\omega}{\Delta t}=r\alpha\]
+    \item Recalling centripetal acceleration, it can also be solved as \[a_R=\omega^2r\]
+    \item Frequency can be calculated by \[f=\frac{\omega}{2\pi}\]
+    \item Period can be calculated by \[T=\frac{2\pi}{\omega}\]
+\end{itemize}
+
+\subsection{Constant Angular Acceleration}
+\begin{itemize}
+    \item The equations for linear acceleration are analogous to their rotational (angular) counterparts
+    \begin{center}
+\begin{tabular}{|c | c|} 
+ \hline
+ Linear & Angular \\ [1ex]
+ \hline
+ $v=v_0+at$ & $\omega=\omega_0+\alpha t$ \\ [1ex]
+ \hline
+ $x=v_0t+\frac{1}{2}at^2$ & $\theta=\omega_0t+\frac{1}{2}\alpha t^2$ \\ [1ex]
+ \hline
+ $v^2=v_0^2+2ax$ & $\omega^2=\omega_0^2+2\alpha\theta$ \\ [1ex]
+ \hline
+ $v=\frac{v+v_0}{2}$ & $\omega=\frac{\omega+\omega_0}{2}$ \\ [1ex]
+ \hline
+\end{tabular}
+\end{center}
+\end{itemize}
+
+\subsection{Rolling Motion (Without Slipping)}
+\begin{itemize}
+    \item Rolling without slipping depends on an object's static friction without the ground since at each moment in time, the point of contact with the ground is at rest
+    \item The velocity of a rolling object on the ground is represented by \[v=r\omega\], but this is ony valid if the object rolls without slipping
+\end{itemize}
+
+\subsection{Torque}
+\begin{itemize}
+    \item The force to rotate an object about its rotational axis is dependent on the direction and location of the force
+    \item \textbf{Lever arm} - The distance from the axis of rotation a force acts upon, also called moment arm
+    \item Angular acceleration is proportional to the product of force and lever arm, the product is called moment of force or \emph{torque}, thus \[\alpha\propto\tau\]
+    \item The equation for torque is \[\tau=rF\sin\theta\] Where r is the distance from the axis of rotation and \(\theta\) is the angle between the distance of the lever arm and the direction of force, that is, if the force is applied perpendicular to the lever arm then \[\tau=rF\]
+\end{itemize}
+
+\textbf{Forces that act to Tilt the Axis}
+\begin{itemize}
+    \item Sometimes, forces are applied parallel to the axis of rotation and will cause it to tilt, though we consider the axis to remain fixed so these forces are ignored
+\end{itemize}
+
+\subsection{Rotational Dynamics; Torque and Rotational Inertia}
+\begin{itemize}
+    \item The angular acceleration of an object is proportional to the net torque applied to it, thus \[\alpha\propto\Sigma\tau\]
+    \item Since tangential acceleration is the product of radius and angular acceleration, the following is true \[F=mr\alpha\]
+    \item Plugging this into the equation of torque gives \[\tau=mr^2\alpha\]
+    \item \textbf{Moment of Inertia} - An object's rotational inertia,equal to \[mr^2\]
+    \item The moment of inertia of every point on an object is summed to get the object's overall moment of inertia, represented by \[I=\Sigma mr^2\] WHere I is moment of inertia
+    \item Plugging moment of inertia into toqrue gives \[\Sigma\tau=I\alpha\]
+\end{itemize}
+
+\subsection{Solving Problems in Rotational Dynamics}
+\begin{itemize}
+    \item The units for torque are \[m*N\] and the units for moment of inertia are \[kg*m^2\]
+    \item like other types of problems, to determine how to solve a problem, analyze the information you do know and the information you want to know to determine which equations to use, and never forget to check with dimensional analysis
+\end{itemize}
+
+\subsection{Rotational Kinetic Energy}
+\begin{itemize}
+    \item \textbf{Rotational Kinetic Energy} - The kinetic energy of an object in rotationa motion, calculated by \[rotational KE=\frac{1}{2}I\omega^2\] with units of Joules
+    \item Some objects have both translational and angular kinetic energy, so their total kinetic energy is \[KE=\frac{1}{2}Mv^2_{CM}+\frac{1}{2}I_{CM}\omega^2\]
+\end{itemize}
+
+\textbf{Work done by Torque}
+\begin{itemize}
+    \item Work done by torque is calculated with \[W=\tau\Delta\theta\]
+    \item The power of a torque is calculated with \[P=\tau\omega\]
+\end{itemize}
+
+\subsection{Angular Momentum and Its Conservation}
+\begin{itemize}
+    \item \textbf{Angular Momentum} - The angular analogue of linear momentum, calculated by \[L=I\omega\] Where L is linear momentum with units \(\frac{kg*m^2}{s}\)
+    \item Torque can be calculated with linear momentum, shown below \[\Sigma\tau=\frac{\Delta L}{\Delta t}\] Which also implies \[I\frac{\Delta\omega}{\Delta t}=I\alpha\]
+    \item \textbf{Law of conservation of angular momentum} - The total angular momentum of rotating object remains constant if the net torque acting on it is zero
+\end{itemize}
+
+\subsection{Vector Nature of Angular Quantities}
+\begin{itemize}
+    \item Since the only direction unique to rotational motion is the axis of rotation, it is the direction of the angular velocity vector
+    \item The right hand rule is used to determine the direction of the vector, which is: When the fingers of the right hand are curled around the axis of rotation and point in the direction of rotation, then the thumb points in the direction of angular velocity
+    \item The right hand rule is also used to determine the direction of angular acceleration and angular momentum
+    \item Another interesting way of observing motion is with \emph{rotating frames of reference}, but they are outside of the scope of this chapter
+\end{itemize}
+
+\newpage

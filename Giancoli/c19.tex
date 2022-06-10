@@ -1,0 +1,117 @@
+\section{DC Circuits}
+Electrical circuits are fundamental to modern life, visual representations of electrical circuits use symbols for each component called schematics
+
+\subsection{EMF and Terminal Voltage}
+\begin{itemize}
+    \item \textbf{Source} - Also called \emph{electromotive force}, this is a device that provides electrical energy
+    \item \textbf{EMF} - The potential difference between two terminals of a source
+    \item \textbf{Internal Resistance} - The resistance within a source
+    \item \textbf{Terminal Voltage} - The voltage between two terminals, calculated by \[V_{ab}=V_a-V_b\]
+    \item Chemical reactions in a battey produce a voltage, represtned by \(\xi\) if there is no current being drawn, then \[V_{ab}=\xi-Ir\]
+    \item Internal resistance is assumed to be negligible
+\end{itemize}
+
+\subsection{Resistors in Series and Parallel}
+\begin{itemize}
+    \item \textbf{Series} - Describe the connection between resistors when they are connected in a single path, end to end
+    \item Total voltage is equal to the sum of the voltages across each resistor \[V=V_1+V_2+...=IR_1+IR_2+...\] or \[V=IR_{eq}\] 
+    \item \(R_{eq}\) is the sum of the resistances, for resistors in series this is \[R_{eq}=R_1+R_2+...\]
+    \item \textbf{Parallel} - Describes connection in a circuit where the current branches off into multiple paths
+    \item Splits in current cause it to break into components, so the total current is \[I=I_1+I_2+...\] Where \(I_n\) is \[\frac{V}{R_n}\]
+    \item The sum of resistance in resistors in parallel is \[\frac{1}{R_{eq}}=\frac{1}{R_1}+\frac{1}{R_2}+...\]
+\end{itemize}
+
+\subsection{Kirchhoff's Rules}
+\begin{itemize}
+    \item \textbf{Junction Rule} - at any junction point, the sum of all currents entering the junction must equal the sum of all currents leaving the junction
+    \item \textbf{Loop Rule} - The sum of the changes in potential around any closed loop of a circuit must be zero
+    \item Roller Coaster analogy - As a roller coaster mves along the track, energy is converted between kinetic and potential (junction rule) and once it returns, its potential energy is the same as it started (loop rule)
+\end{itemize}
+
+\subsection{EMFs in Series and in Parallel; Charging a Battery}
+\begin{itemize}
+    \item Sum of EMFs from sources in series is the sum of the individual EMFs
+    \item Batteries in parallel with the same EMF will only have to produce a fraction of the current needed for the circuit, so they wear out less
+\end{itemize}
+
+\textbf{Safety when Jump Starting}
+\begin{itemize}
+    \item When jump starting a car, connect the negative terminal of the good battery with a piece of bare metal on the dead car and connect the positive terminals of each battery
+    \item  Do not connect the negative terminal of the good battery to that of the bad one as it may spark hydrogen gas leaking from the bad battery
+\end{itemize}
+
+\subsection{Circuits Containing Capacitors in Series and in Parallel}
+\begin{itemize}
+    \item The equation for capacitors in parallel is \[C_{eq}=C_1+C_2+...\]
+    \item The equation for capacitors in series is \[\frac{1}{C_{eq}}=\frac{1}{C_1}+\frac{1}{C_2}+...\]
+\end{itemize}
+
+\subsection{RC Circuits - Resistor and Capacitor Series}
+\textbf{Capacitor Charging}
+\begin{itemize}
+    \item \textbf{RC Circuit} - A circuit containing both resistors and capacitors
+    \item The voltage across a capacitor is given by \[V_C=\xi(1-e^{-t/RC})\] Where \(\xi\) is the voltage of the source, e is the base of the natural log, R is the resistance of the resistor in the RC circuit, and C is the capacitance
+    \item The charge within a capacitor is given by \[Q=Q_0(1-e^{-tRC})\]
+    \item \textbf{Time COnstant} - The product of resistance and capacitance in an RC circuit, represented by \(\tau\) \[\tau=RC\]
+    \item The voltage across a resistor in an RC circuit is calculated by \[V_R=\xi e^{-t/RC}\]
+    Thus current is \[I=\frac{\xi e^{-t/RC}}{R}\]
+\end{itemize}
+
+\textbf{Capacitor Discharging}
+\begin{itemize}
+    \item The voltage in a capacitor as it discharges is \[V_C=V_0e^{-t/RC}\]
+    \item The charge as it discharges is \[Q=Q_0e^{-t/RC}\]
+\end{itemize}
+
+\textbf{Medical and Other Applications of RC Circuits}
+\begin{itemize}
+    \item \textbf{Sawtooth Voltage} - A voltage whose graph resembles a saw blade
+    \item \textbf{Electronic Pacemaker} - A medical device that uses an RC circuit to deliver evenly spaced electrical pulses to the heart 
+\end{itemize}
+
+\subsection{Electric Hazards}
+\begin{itemize}
+    \item Electric current running through the body may cause burns or stimulate nerves annd muscles
+    \item \textbf{Ventricular Fibrillation} - Occurs when a high current passes trhough the heart, it will cause irregular rhythms and blood is not properly pumped
+\end{itemize}
+
+\textbf{Safe Wiring}
+\begin{itemize}
+    \item Power outlets contain 3 wires, the hot wire from which current flows, the neutral wire which carries away current, and the ground wire that connects to ground
+    \item \textbf{Circuit Breakers} - Devices that dtecte when too much current flows thruogh a wire, if the current passes over the threshold then it stops current from flowing
+    \item \textbf{Leakage Current} - Current that flows along an unintended path
+\end{itemize}
+
+\subsection{Ammeters and Voltmeters - Measurement Affects the Quantity being Measured}
+\begin{itemize}
+    \item \textbf{Ammeter} - A device that measures current
+    \item \textbf{Voltmeter} - A device that measures voltage
+    \item \textbf{Galvanometer} - An analog ammeter or voltmeter that works by using the force between a magnetic field and a current carrying coil
+\end{itemize}
+
+\textbf{How to Connect Meters}
+\begin{itemize}
+    \item Ammeters must be connect directly within a circuit 
+    \item Voltmeters are connect in parallel with the points between which voltage is being measured
+\end{itemize}
+
+\textbf{Effects of Meter Resistance}
+\begin{itemize}
+    \item Sometimes, a meter can give a misleading reading
+    \item Voltmeters with high resistances compared to the circuit they are measuring have more accurate readings
+    \item The more sensitive a galvanometer is, the less its effect on the circuit is
+\end{itemize}
+
+\textbf{Other Meters}
+\begin{itemize}
+    \item \textbf{Multimeter} - A meter that measure multiple electrical units
+    \item \textbf{Ohmeter} - A meter that measures resistance
+\end{itemize}
+
+\textbf{Digital Meters}
+\begin{itemize}
+    \item Digital meters do not use a galvanometer but rather use semiconductor devices to measure
+    \item Their precision is extremely high, often around 0.01\%
+\end{itemize}
+
+\newpage
