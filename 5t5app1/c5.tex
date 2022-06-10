@@ -1,0 +1,73 @@
+\section{Rotations}
+
+\subsection{Vocabulary}
+\begin{itemize}
+    \item Centripetal Acceleration - The acceleration an object feels towards the center of a circle
+    \item Torque - The force applied to an object that causes it to rotate
+    \item Lever Arm - The closest distance from an object's center of rotation to the line on which the force rotating it acts
+\end{itemize}
+
+\subsection{Circular Motion}
+\begin{itemize}
+    \item When an object moves at a constant speed in a circle, its acceleration in its directino of motion is 0 because it is not speeding up or slowing down
+    \item The object is, however, constantly changing direction, so it is still accelerating
+    \item The acceleration of an object moving at a constant speed in a circle points to the center of the circle and has magnitude defined as \[a=\frac{v^2}{r}\] Where \(v\) is its translational velocity and \(r\) is the radius of the circle
+    \item A newton's law approach is typically the right thing to do as the force pointing to the center of the circle 
+    \item Remember that centripetal force is not a new force, it is simply the label we give to the force making an object rotate, which can be tension, friction, etc.
+    \item Whatever the centripetal force is, we can calculate it using \(F=ma\) by replacing centripetal acceleration with its definition from before: \[F=m*\frac{v^2}{r}\]
+    \item Sometimes questions will not provide enough information to be label to calculate the remaining variables completely, instead these questions may ask what remaining info is required, be mindful of what information you need!
+    \item Sometimes, you can split up known values into their component units and cancel out what you don't have, which leaves the problem solvable
+\end{itemize}
+
+\subsection{Torque}
+\begin{itemize}
+    \item The torque a force applies is defined as: \[\tau=F*d_{\perp}\]
+    \item The \(\perp\) symbol means we want the perpendicular distance between the force line and the fulcrum or axis of rotation
+    \item If a force is acting at an angle to an object, break it into components and use the component perpendicular to the object
+    \item The distance, \(d\) is also called the lever arm of a force
+    \item Another way to determine torque is to extend the force line until it is perpendicular to the lever arm, and using the lever arm's new length to calculate torque
+    \item When an object is not rotating but still has torque applied to it, you can choose anywhere as the fulcrum to make calculations easier
+    \item When you have a heavy extended object applying torque, pretend all of the object's mass is at the object's center of mass
+\end{itemize}
+
+\subsection{Rotational Kinematics}
+\begin{itemize}
+    \item Rotational speed is how fast an object rotates, or how many radians / degrees it rotates through over time, shown with \(\omega\)
+    \item Rotational acceleration is how fast an object's rotational speed is changing, shown with \(\alpha\)
+    \item The variable, \(\theta\) represents an objects rotational displacement
+    \item The kinematic equations for translational motion also relate the variables for rotational motion:
+    \begin{itemize}
+        \item \(\omega_f=\omega_0+\alpha*t\)
+        \item \(\Delta\theta=\omega_0*t+\frac{1}{2}*\alpha*t^2\)
+        \item \(\omega_f^2=\omega_0^2+2*\alpha*\Delta\theta\)
+    \end{itemize}
+\end{itemize}
+
+\subsection{Rotational Inertia}
+\begin{itemize}
+    \item Rotational inertia is an object's ability to resist rotational motion
+    \item The two things that affect an object's rotational inertia is its mass and its distance from the center of rotation
+    \item For a single "point", the rotational inertia is defined as: \[I=m*r^2\]
+    \item For simple shapes, the rotational inertia formulae are given to you
+    \item The rotational inertia of a system is given by the sum of the rotational inertia of individual objects
+\end{itemize}
+
+\subsection{Newton's Second Law for Rotation}
+\begin{itemize}
+    \item Applying Newton's second law to rotational motion gives \[\tau_{net}=I*\alpha\]
+    \item Think of the many methods with which rotational speed can be determined (a camera, a protractor), you may need them for the test
+\end{itemize}
+
+\subsection{Angular Momentum}
+\begin{itemize}
+    \item Similar to translational motion, the change in rotational momentum or rotational impulse of a rotating object is given by: \[\Delta L=\tau*\Delta t\] Where \(\Delta L\) is change in rotational momentum
+    \item For a single rotating point, its momentum is given by \[L=m*v*r\]
+    \item For any object with known rotational inertia, its rotational momentum is given by: \[L=I*\omega\]
+    \item In a system where the only torques acting are from objects within that system, angular momentum is conserved
+    \item There are more things than collisions that can conserve angular momentum, anytime during which a system experiences no net torque
+\end{itemize}
+
+\subsection{Rotational Kinetic Energy}
+\begin{itemize}
+    \item An object's rotational kinetic energy is given by \[\frac{1}{2}*I*\omega^2\]
+\end{itemize}
