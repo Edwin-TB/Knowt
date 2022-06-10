@@ -1,383 +1,383 @@
-\contentsline {section}{\numberline {1}Introduction, Measurement, Estimating}{7}{}%
-\contentsline {subsection}{\numberline {1.1}The Nature of Science}{7}{}%
-\contentsline {subsection}{\numberline {1.2}Physics and its Relation to Other Fields}{7}{}%
-\contentsline {subsection}{\numberline {1.3}Models, Theories, and Laws}{7}{}%
-\contentsline {subsection}{\numberline {1.4}Measurement and Uncertainty; Significant Figures}{7}{}%
-\contentsline {subsection}{\numberline {1.5}Units, Standards, and the SI System}{8}{}%
-\contentsline {subsection}{\numberline {1.6}Converting Units}{9}{}%
-\contentsline {subsection}{\numberline {1.7}Order of Magnitude: Rapid Estimating}{9}{}%
-\contentsline {subsection}{\numberline {1.8}Dimensions and Dimensional Analysis}{9}{}%
-\contentsline {section}{\numberline {2}Describing Motion: Kinematics in One Dimension}{10}{}%
-\contentsline {subsection}{\numberline {2.1}Reference Frames and Displacement}{10}{}%
-\contentsline {subsection}{\numberline {2.2}Average Velocity}{10}{}%
-\contentsline {subsection}{\numberline {2.3}Instantaneous Velocity}{10}{}%
-\contentsline {subsection}{\numberline {2.4}Acceleration}{11}{}%
-\contentsline {subsection}{\numberline {2.5}Motion and Constant Acceleration}{11}{}%
-\contentsline {subsection}{\numberline {2.6}Solving Problems}{11}{}%
-\contentsline {subsection}{\numberline {2.7}Freely Falling Objects}{12}{}%
-\contentsline {subsection}{\numberline {2.8}Graphical Analysis of Linear Motion}{12}{}%
-\contentsline {section}{\numberline {3}Kinematics in Two Dimensions; Vectors}{13}{}%
-\contentsline {subsection}{\numberline {3.1}Vectors and Scalars}{13}{}%
-\contentsline {subsection}{\numberline {3.2}Addition of Vectors - Graphical Methods}{13}{}%
-\contentsline {subsection}{\numberline {3.3}Subtraction of Vectors, and Multiplication of a Vector by a Scalar}{13}{}%
-\contentsline {subsection}{\numberline {3.4}Adding Vectors by Components}{13}{}%
-\contentsline {subsection}{\numberline {3.5}Projectile Motion}{14}{}%
-\contentsline {subsection}{\numberline {3.6}Solving Projectile Motion Problems}{14}{}%
-\contentsline {subsection}{\numberline {3.7}Projectile Motion is Parabolic}{14}{}%
-\contentsline {subsection}{\numberline {3.8}Relative Velocity}{15}{}%
-\contentsline {section}{\numberline {4}Dynamics: Newton's Laws of Motion}{16}{}%
-\contentsline {subsection}{\numberline {4.1}Force}{16}{}%
-\contentsline {subsection}{\numberline {4.2}Newton's First Law of Motion}{16}{}%
-\contentsline {subsection}{\numberline {4.3}Mass}{16}{}%
-\contentsline {subsection}{\numberline {4.4}Newton's Second Law of Motion}{16}{}%
-\contentsline {subsection}{\numberline {4.5}Newton's Third Law of Motion}{17}{}%
-\contentsline {subsection}{\numberline {4.6}Weight - the Force of Gravity; and the Normal Force}{17}{}%
-\contentsline {subsection}{\numberline {4.7}Solving the Problems with Newton's Laws; Free-Body Diagram}{17}{}%
-\contentsline {subsection}{\numberline {4.8}Problems Involving Friction, Inclines}{17}{}%
-\contentsline {section}{\numberline {5}Circular Motion; Gravitation}{19}{}%
-\contentsline {subsection}{\numberline {5.1}Kinematics of Uniform Circular Motion}{19}{}%
-\contentsline {subsection}{\numberline {5.2}Dynamics of Uniform Circular Motion}{19}{}%
-\contentsline {subsection}{\numberline {5.3}Highway Curves: Banked and Unbanked}{19}{}%
-\contentsline {subsection}{\numberline {5.4}Nonuniform Circular Motion}{19}{}%
-\contentsline {subsection}{\numberline {5.5}Newton's Law of Universal Gravitation}{20}{}%
-\contentsline {subsection}{\numberline {5.6}Gravity Near the Earth's Surface}{20}{}%
-\contentsline {subsection}{\numberline {5.7}Satellites and "Weightlessness"}{20}{}%
-\contentsline {subsection}{\numberline {5.8}Planets, Kepler's Laws, and Newton's Synthesis}{21}{}%
-\contentsline {subsection}{\numberline {5.9}Moon Rises an Hour Later Each Day}{21}{}%
-\contentsline {subsection}{\numberline {5.10}Types of Forces in Nature}{21}{}%
-\contentsline {section}{\numberline {6}Work and Energy}{22}{}%
-\contentsline {subsection}{\numberline {6.1}Work Done by a Constant Force}{22}{}%
-\contentsline {subsection}{\numberline {6.2}Work Done by a Varying Force}{22}{}%
-\contentsline {subsection}{\numberline {6.3}Kinetic Energy, and the Work-Energy Principle}{22}{}%
-\contentsline {subsection}{\numberline {6.4}Potential Energy}{22}{}%
-\contentsline {subsection}{\numberline {6.5}Conservative and Nonconservative Forces}{23}{}%
-\contentsline {subsection}{\numberline {6.6}Mechanical Energy and its Conservation}{23}{}%
-\contentsline {subsection}{\numberline {6.7}Problem Solving Using Conservation of Mechanical Energy}{23}{}%
-\contentsline {subsection}{\numberline {6.8}Other Forms of Energy and Energy Transformations, the Law of Conservation of Energy}{23}{}%
-\contentsline {subsection}{\numberline {6.9}Energy Conservation with Dissipative Forces: Solving Problems}{24}{}%
-\contentsline {subsection}{\numberline {6.10}Power}{24}{}%
-\contentsline {section}{\numberline {7}Linear Momentum}{25}{}%
-\contentsline {subsection}{\numberline {7.1}Momentum and its Relation to Force}{25}{}%
-\contentsline {subsection}{\numberline {7.2}Conservation of Momentum}{25}{}%
-\contentsline {subsection}{\numberline {7.3}Collisions and Impulse}{25}{}%
-\contentsline {subsection}{\numberline {7.4}Conservation of Energy and Momentum in Collisions}{25}{}%
-\contentsline {subsection}{\numberline {7.5}Elastic Collisions in One Dimension}{25}{}%
-\contentsline {subsection}{\numberline {7.6}Inelastic Collisions}{26}{}%
-\contentsline {subsection}{\numberline {7.7}Collisions in Two Dimensions}{26}{}%
-\contentsline {subsection}{\numberline {7.8}Center of Mass (CM)}{26}{}%
-\contentsline {subsection}{\numberline {7.9}CM for the Human Body}{26}{}%
-\contentsline {subsection}{\numberline {7.10}CM and Translational Motion}{26}{}%
-\contentsline {section}{\numberline {8}Rotational Motion}{27}{}%
-\contentsline {subsection}{\numberline {8.1}Angular Quantities}{27}{}%
-\contentsline {subsection}{\numberline {8.2}Constant Angular Acceleration}{27}{}%
-\contentsline {subsection}{\numberline {8.3}Rolling Motion (Without Slipping)}{27}{}%
-\contentsline {subsection}{\numberline {8.4}Torque}{28}{}%
-\contentsline {subsection}{\numberline {8.5}Rotational Dynamics; Torque and Rotational Inertia}{28}{}%
-\contentsline {subsection}{\numberline {8.6}Solving Problems in Rotational Dynamics}{28}{}%
-\contentsline {subsection}{\numberline {8.7}Rotational Kinetic Energy}{28}{}%
-\contentsline {subsection}{\numberline {8.8}Angular Momentum and Its Conservation}{29}{}%
-\contentsline {subsection}{\numberline {8.9}Vector Nature of Angular Quantities}{29}{}%
-\contentsline {section}{\numberline {9}Static Equilibrium; Elasticity and Fracture}{30}{}%
-\contentsline {subsection}{\numberline {9.1}The Conditions of Equilibrium}{30}{}%
-\contentsline {subsection}{\numberline {9.2}Solving Statics Problems}{30}{}%
-\contentsline {subsection}{\numberline {9.3}Applications to muscles and joints}{30}{}%
-\contentsline {subsection}{\numberline {9.4}Stability and balance}{30}{}%
-\contentsline {subsection}{\numberline {9.5}Elasticity; Stress and Strain}{30}{}%
-\contentsline {subsection}{\numberline {9.6}Fracture}{31}{}%
-\contentsline {subsection}{\numberline {9.7}Spanning a Space: Arched and Domes}{31}{}%
-\contentsline {section}{\numberline {10}Fluids}{32}{}%
-\contentsline {subsection}{\numberline {10.1}Phases of Matter}{32}{}%
-\contentsline {subsection}{\numberline {10.2}Density and Specific Gravity}{32}{}%
-\contentsline {subsection}{\numberline {10.3}Pressure in Fluids}{32}{}%
-\contentsline {subsection}{\numberline {10.4}Atmospheric pressure and Guage Pressure}{32}{}%
-\contentsline {subsection}{\numberline {10.5}Pascal’s Principle}{33}{}%
-\contentsline {subsection}{\numberline {10.6}Measurement of Pressure: Gauges and Barometer}{33}{}%
-\contentsline {subsection}{\numberline {10.7}Buoyancy and Archimedes’ Principle}{33}{}%
-\contentsline {subsection}{\numberline {10.8}Fluids in motion; FlowRate and the Equation of Continuity}{33}{}%
-\contentsline {subsection}{\numberline {10.9}Bernoulli’s Equation}{34}{}%
-\contentsline {subsection}{\numberline {10.10}Applications if Bernoulli’s Principle Torricelli, Airplanes, Baseballs, Blood Flow}{34}{}%
-\contentsline {subsection}{\numberline {10.11}Viscosity}{34}{}%
-\contentsline {subsection}{\numberline {10.12}Flow in Tubes: Poiseuille's Equation, Blood Flow}{35}{}%
-\contentsline {subsection}{\numberline {10.13}Surface Tension and Capillarity}{35}{}%
-\contentsline {subsection}{\numberline {10.14}Pumps and the Heart}{35}{}%
-\contentsline {section}{\numberline {11}Oscillators and Waves}{36}{}%
-\contentsline {subsection}{\numberline {11.1}Simple Harmonic Motion - Spring Oscillations}{36}{}%
-\contentsline {subsection}{\numberline {11.2}Energy in Simple Harmonic Motion}{36}{}%
-\contentsline {subsection}{\numberline {11.3}The Period and Sinusoidal Nature of SHM}{36}{}%
-\contentsline {subsection}{\numberline {11.4}The Simple Pendulum}{37}{}%
-\contentsline {subsection}{\numberline {11.5}Damped Harmonic Motion}{37}{}%
-\contentsline {subsection}{\numberline {11.6}Forced Oscillations; Resonance}{38}{}%
-\contentsline {subsection}{\numberline {11.7}Wave Motion}{38}{}%
-\contentsline {subsection}{\numberline {11.8}Types of Waves and their Speeds: Transverse and Longitudinal}{38}{}%
-\contentsline {subsection}{\numberline {11.9}Energy Transported by Waves}{39}{}%
-\contentsline {subsection}{\numberline {11.10}Reflection and Transmission of Waves}{39}{}%
-\contentsline {subsection}{\numberline {11.11}Interference; Principle of Superposition}{40}{}%
-\contentsline {subsection}{\numberline {11.12}Standing Waves; Resonance}{40}{}%
-\contentsline {subsection}{\numberline {11.13}Refraction}{40}{}%
-\contentsline {subsection}{\numberline {11.14}Diffraction}{40}{}%
-\contentsline {subsection}{\numberline {11.15}Mathematical Representation of a Travelling Wave}{40}{}%
-\contentsline {section}{\numberline {12}Sounds}{41}{}%
-\contentsline {subsection}{\numberline {12.1}Characteristics of Sound}{41}{}%
-\contentsline {subsection}{\numberline {12.2}Intensity of Sound: Decibels}{41}{}%
-\contentsline {subsection}{\numberline {12.3}The Ear and its Response; Loudness}{41}{}%
-\contentsline {subsection}{\numberline {12.4}Sources of Sound; Vibrating Strings and Air Columns}{42}{}%
-\contentsline {subsection}{\numberline {12.5}Quality of Sound, and Noise; Superposition}{42}{}%
-\contentsline {subsection}{\numberline {12.6}Interference of Sound Waves; Beats}{42}{}%
-\contentsline {subsection}{\numberline {12.7}Doppler Effect}{43}{}%
-\contentsline {subsection}{\numberline {12.8}Shock Waves and the Sonic Boom}{43}{}%
-\contentsline {subsection}{\numberline {12.9}Applications: Sonar, Ultrasound, and Medical Imaging}{43}{}%
-\contentsline {section}{\numberline {13}Temperature and Kinetic Energy}{44}{}%
-\contentsline {subsection}{\numberline {13.1}Atomic Theory of Matter}{44}{}%
-\contentsline {subsection}{\numberline {13.2}Temperature and Thermometers}{44}{}%
-\contentsline {subsection}{\numberline {13.3}Thermal Equilibrium and the Zeroth Law of Thermodynamics}{44}{}%
-\contentsline {subsection}{\numberline {13.4}Thermal Expansion}{45}{}%
-\contentsline {subsection}{\numberline {13.5}The Gas Laws and Absolute Temperature}{45}{}%
-\contentsline {subsection}{\numberline {13.6}The Ideal Gas Law}{46}{}%
-\contentsline {subsection}{\numberline {13.7}Problem Solving with The Ideal Gas Law}{46}{}%
-\contentsline {subsection}{\numberline {13.8}Ideal Gas Law in Terms of Molecules; Avogadro's Number}{46}{}%
-\contentsline {subsection}{\numberline {13.9}Kinetic Theory and the Molecular Interpretation of Temperature}{46}{}%
-\contentsline {subsection}{\numberline {13.10}Distribution of Molecular Speeds}{47}{}%
-\contentsline {subsection}{\numberline {13.11}Real gases and Changes of Phase}{47}{}%
-\contentsline {subsection}{\numberline {13.12}Vapor Pressure and Humidity}{47}{}%
-\contentsline {subsection}{\numberline {13.13}Diffusion}{48}{}%
-\contentsline {section}{\numberline {14}Heat}{49}{}%
-\contentsline {subsection}{\numberline {14.1}Heat as Energy Transfer}{49}{}%
-\contentsline {subsection}{\numberline {14.2}Internal Energy}{49}{}%
-\contentsline {subsection}{\numberline {14.3}Specific Heat}{49}{}%
-\contentsline {subsection}{\numberline {14.4}Calorimetry - Solving Problems}{50}{}%
-\contentsline {subsection}{\numberline {14.5}Latent Heat}{50}{}%
-\contentsline {subsection}{\numberline {14.6}Heat Transfer: Conduction}{50}{}%
-\contentsline {subsection}{\numberline {14.7}Heat Transfer: Convection}{51}{}%
-\contentsline {subsection}{\numberline {14.8}Heat Transfer: Radiation}{51}{}%
-\contentsline {section}{\numberline {15}The Laws of Thermodynamics}{52}{}%
-\contentsline {subsection}{\numberline {15.1}The First Law of Thermodynamics}{52}{}%
-\contentsline {subsection}{\numberline {15.2}Thermodynamic Processes and the First Law}{52}{}%
-\contentsline {subsection}{\numberline {15.3}Human Metabolism and the First Law}{52}{}%
-\contentsline {subsection}{\numberline {15.4}The Second Law of Thermodynamics - Introduction}{52}{}%
-\contentsline {subsection}{\numberline {15.5}Heat Engines}{53}{}%
-\contentsline {subsection}{\numberline {15.6}Refrigerators, Air Conditioners, and Heat Pumps}{53}{}%
-\contentsline {subsection}{\numberline {15.7}Entropy and the Second Law of Thermodynamics}{54}{}%
-\contentsline {subsection}{\numberline {15.8}Order to Disorder}{54}{}%
-\contentsline {subsection}{\numberline {15.9}Unavailability of Energy; Heat Death}{54}{}%
-\contentsline {subsection}{\numberline {15.10}Statistical Interpretation of Energy and the Second Law}{54}{}%
-\contentsline {subsection}{\numberline {15.11}Thermal Pollution, Global Warming, and the Energy Resources}{54}{}%
-\contentsline {section}{\numberline {16}Electric Charge and Electric Field}{55}{}%
-\contentsline {subsection}{\numberline {16.1}Static Electricity; Electric Charge and its Conservation}{55}{}%
-\contentsline {subsection}{\numberline {16.2}Electric Charge in the Atom}{55}{}%
-\contentsline {subsection}{\numberline {16.3}Insulators and Conductors}{55}{}%
-\contentsline {subsection}{\numberline {16.4}Induced Charge; the Electroscope}{55}{}%
-\contentsline {subsection}{\numberline {16.5}Coulomb's Law}{55}{}%
-\contentsline {subsection}{\numberline {16.6}Solving Problems Involving Coulomb's Law and Vectors}{56}{}%
-\contentsline {subsection}{\numberline {16.7}The Electric Field}{56}{}%
-\contentsline {subsection}{\numberline {16.8}Electric Field Lines}{57}{}%
-\contentsline {subsection}{\numberline {16.9}Electric Field and Conductors}{57}{}%
-\contentsline {subsection}{\numberline {16.10}Electric and Molecular Biology: DNA Structure and Replication}{57}{}%
-\contentsline {subsection}{\numberline {16.11}Photocopy Machines and Computer Printers Use Electrostatics}{57}{}%
-\contentsline {subsection}{\numberline {16.12}Gauss's Law}{57}{}%
-\contentsline {section}{\numberline {17}Electric Potential}{59}{}%
-\contentsline {subsection}{\numberline {17.1}Electric Potential Energy and Potential Difference}{59}{}%
-\contentsline {subsection}{\numberline {17.2}Relation Between Electric Potential and Electric Field}{59}{}%
-\contentsline {subsection}{\numberline {17.3}Equipotential Lines and Surfaces}{59}{}%
-\contentsline {subsection}{\numberline {17.4}The Electron Volt, a Unit of Energy}{60}{}%
-\contentsline {subsection}{\numberline {17.5}Electric Potential Due to Point Charges}{60}{}%
-\contentsline {subsection}{\numberline {17.6}Potential Due to Electric Dipole; Dipole Moment}{60}{}%
-\contentsline {subsection}{\numberline {17.7}Capacitance}{60}{}%
-\contentsline {subsection}{\numberline {17.8}Dielectrics}{61}{}%
-\contentsline {subsection}{\numberline {17.9}Storage of Electric Energy}{61}{}%
-\contentsline {subsection}{\numberline {17.10}Digital; Binary Numbers; Signal Voltage}{61}{}%
-\contentsline {subsection}{\numberline {17.11}TV and Computer Monitors; CRTs, Flat Screens}{62}{}%
-\contentsline {subsection}{\numberline {17.12}Electrocardiogram}{62}{}%
-\contentsline {section}{\numberline {18}Electric Currents}{63}{}%
-\contentsline {subsection}{\numberline {18.1}The Electric Battery}{63}{}%
-\contentsline {subsection}{\numberline {18.2}Electric Current}{63}{}%
-\contentsline {subsection}{\numberline {18.3}Ohm's Law: Resistance and Resistors}{63}{}%
-\contentsline {subsection}{\numberline {18.4}Resistivity}{64}{}%
-\contentsline {subsection}{\numberline {18.5}Electric Power}{64}{}%
-\contentsline {subsection}{\numberline {18.6}Power in Household Circuits}{64}{}%
-\contentsline {subsection}{\numberline {18.7}Alternating Current}{64}{}%
-\contentsline {subsection}{\numberline {18.8}Microscopic View of Electric Current}{65}{}%
-\contentsline {subsection}{\numberline {18.9}Superconductivity}{65}{}%
-\contentsline {subsection}{\numberline {18.10}Electrical Conduction in the Human Nervous System}{65}{}%
-\contentsline {section}{\numberline {19}DC Circuits}{66}{}%
-\contentsline {subsection}{\numberline {19.1}EMF and Terminal Voltage}{66}{}%
-\contentsline {subsection}{\numberline {19.2}Resistors in Series and Parallel}{66}{}%
-\contentsline {subsection}{\numberline {19.3}Kirchhoff's Rules}{66}{}%
-\contentsline {subsection}{\numberline {19.4}EMFs in Series and in Parallel; Charging a Battery}{66}{}%
-\contentsline {subsection}{\numberline {19.5}Circuits Containing Capacitors in Series and in Parallel}{67}{}%
-\contentsline {subsection}{\numberline {19.6}RC Circuits - Resistor and Capacitor Series}{67}{}%
-\contentsline {subsection}{\numberline {19.7}Electric Hazards}{67}{}%
-\contentsline {subsection}{\numberline {19.8}Ammeters and Voltmeters - Measurement Affects the Quantity being Measured}{68}{}%
-\contentsline {section}{\numberline {20}Magnetism}{69}{}%
-\contentsline {subsection}{\numberline {20.1}Magnets and Magnetic Field}{69}{}%
-\contentsline {subsection}{\numberline {20.2}Electric Currents Produce Magnetic Fields}{69}{}%
-\contentsline {subsection}{\numberline {20.3}Force on an Electric Current in a Magnetic Field; Definition of \textbf {B}}{69}{}%
-\contentsline {subsection}{\numberline {20.4}Force on an Electric Charges Moving in Magnetic Field}{69}{}%
-\contentsline {subsection}{\numberline {20.5}Magnetic Field Due to a Long Straight Wire}{70}{}%
-\contentsline {subsection}{\numberline {20.6}Force Between Two Parallel Wires}{70}{}%
-\contentsline {subsection}{\numberline {20.7}Solenoids and Electromagnets}{70}{}%
-\contentsline {subsection}{\numberline {20.8}Ampere's Law}{70}{}%
-\contentsline {subsection}{\numberline {20.9}Torque on a Current Loop; Magnetic Moment}{71}{}%
-\contentsline {subsection}{\numberline {20.10}Applications: Motors, Loudspeakers, Galvanometers}{71}{}%
-\contentsline {subsection}{\numberline {20.11}Mass Spectrometer}{71}{}%
-\contentsline {subsection}{\numberline {20.12}Ferromagnetism: Domains and Hysteresis}{72}{}%
-\contentsline {section}{\numberline {21}Electromagnetic Induction and Faraday's Law}{73}{}%
-\contentsline {subsection}{\numberline {21.1}Induced EMF}{73}{}%
-\contentsline {subsection}{\numberline {21.2}Faraday's Law of Induction; Lenz's Law}{73}{}%
-\contentsline {subsection}{\numberline {21.3}EMF Induced in a Moving Conductor}{73}{}%
-\contentsline {subsection}{\numberline {21.4}Changing Magnetic Flux Produces Electric Field}{73}{}%
-\contentsline {subsection}{\numberline {21.5}Electric Generators}{73}{}%
-\contentsline {subsection}{\numberline {21.6}Back EMF and Counter Torque; Eddy Currents}{74}{}%
-\contentsline {subsection}{\numberline {21.7}Transformers and Transmission of Power}{74}{}%
-\contentsline {subsection}{\numberline {21.8}Information Storage: Magnetic and Semiconductor; Tape, Hard Drive, RAM}{74}{}%
-\contentsline {subsection}{\numberline {21.9}Applications of Induction: Microphone, Seismograph, GFCI}{75}{}%
-\contentsline {subsection}{\numberline {21.10}Inductance}{75}{}%
-\contentsline {subsection}{\numberline {21.11}Energy Stored in a Magnetic Field}{75}{}%
-\contentsline {subsection}{\numberline {21.12}LR Circuits}{76}{}%
-\contentsline {subsection}{\numberline {21.13}AC Circuits and Inductance}{76}{}%
-\contentsline {subsection}{\numberline {21.14}LRC Series AC Circuit}{76}{}%
-\contentsline {subsection}{\numberline {21.15}Resonance in AC Circuits}{77}{}%
-\contentsline {section}{\numberline {22}Electromagnetic Waves}{78}{}%
-\contentsline {subsection}{\numberline {22.1}Changing Electric Fields Produce Magnetic Fields; Maxwell's Equations}{78}{}%
-\contentsline {subsection}{\numberline {22.2}Production of Electromagnetic Waves}{78}{}%
-\contentsline {subsection}{\numberline {22.3}Light as an Electromagnetic Wave and the Electromagnetic Spectrum}{78}{}%
-\contentsline {subsection}{\numberline {22.4}Measuring the Speed of Light}{79}{}%
-\contentsline {subsection}{\numberline {22.5}Energy in EM Waves}{79}{}%
-\contentsline {subsection}{\numberline {22.6}Momentum Transfer and Radiation Pressure}{79}{}%
-\contentsline {subsection}{\numberline {22.7}Radio and Television; Wireless Communication}{79}{}%
-\contentsline {section}{\numberline {23}Light: Geometric Optics}{81}{}%
-\contentsline {subsection}{\numberline {23.1}The Ray Model of Light}{81}{}%
-\contentsline {subsection}{\numberline {23.2}Reflection; Image Formation by a Plane Mirror}{81}{}%
-\contentsline {subsection}{\numberline {23.3}Formation of Images by Spherical Mirrors}{81}{}%
-\contentsline {subsection}{\numberline {23.4}Index of Refraction}{82}{}%
-\contentsline {subsection}{\numberline {23.5}Refraction: Snell's Law}{83}{}%
-\contentsline {subsection}{\numberline {23.6}Total Internal Reflection; Fiber Optics}{83}{}%
-\contentsline {subsection}{\numberline {23.7}Thin Lenses; Ray Tracing}{83}{}%
-\contentsline {subsection}{\numberline {23.8}The Thin Lens Equation}{84}{}%
-\contentsline {subsection}{\numberline {23.9}Combinations of Lenses}{84}{}%
-\contentsline {subsection}{\numberline {23.10}Lensmaker's Equation}{84}{}%
-\contentsline {section}{\numberline {24}The Wave Nature of Light}{85}{}%
-\contentsline {subsection}{\numberline {24.1}Waves vs. Particles; Huygen's Principle and Diffraction}{85}{}%
-\contentsline {subsection}{\numberline {24.2}Huygen's Principle and Law of Refraction}{85}{}%
-\contentsline {subsection}{\numberline {24.3}Interference - Young's Double-Slit Experiment}{85}{}%
-\contentsline {subsection}{\numberline {24.4}The Visible Spectrum and Dispersion}{85}{}%
-\contentsline {subsection}{\numberline {24.5}Diffraction by a Single Slit or Disk}{86}{}%
-\contentsline {subsection}{\numberline {24.6}Diffraction Grating}{86}{}%
-\contentsline {subsection}{\numberline {24.7}The Spectrometer and Spectroscopy}{86}{}%
-\contentsline {subsection}{\numberline {24.8}Interference in Thin Films}{86}{}%
-\contentsline {subsection}{\numberline {24.9}Michelson Interferometer}{87}{}%
-\contentsline {subsection}{\numberline {24.10}Polarization}{87}{}%
-\contentsline {subsection}{\numberline {24.11}Liquid Crystal Displays}{87}{}%
-\contentsline {subsection}{\numberline {24.12}Scattering of Light by the Atmosphere}{87}{}%
-\contentsline {section}{\numberline {25}Optical Instruments}{88}{}%
-\contentsline {subsection}{\numberline {25.1}Cameras: Films and Digital}{88}{}%
-\contentsline {subsection}{\numberline {25.2}The Human Eye; Corrective Lenses}{88}{}%
-\contentsline {subsection}{\numberline {25.3}Magnifying Glass}{88}{}%
-\contentsline {subsection}{\numberline {25.4}Telescopes}{89}{}%
-\contentsline {subsection}{\numberline {25.5}Compound Microscope}{89}{}%
-\contentsline {subsection}{\numberline {25.6}Aberrations of Lenses and Mirrors}{89}{}%
-\contentsline {subsection}{\numberline {25.7}Limits of Resolution; Circular Apertures}{89}{}%
-\contentsline {subsection}{\numberline {25.8}Resolution of Telescopes the \(\lambda \) Limit}{89}{}%
-\contentsline {subsection}{\numberline {25.9}Resolution of the Human Eyes and Useful Magnification}{89}{}%
-\contentsline {subsection}{\numberline {25.10}Specialty Microscopes and Contrast}{90}{}%
-\contentsline {subsection}{\numberline {25.11}X-Rays and X-Ray Diffraction }{90}{}%
-\contentsline {subsection}{\numberline {25.12}X-Ray Imaging and the Computed Tomography (CT Scan)}{90}{}%
-\contentsline {section}{\numberline {26}The Special Theory of Relativity}{91}{}%
-\contentsline {subsection}{\numberline {26.1}Galilean-Newtonian Relativity}{91}{}%
-\contentsline {subsection}{\numberline {26.2}Postulates of the Special Theory of Relativity}{91}{}%
-\contentsline {subsection}{\numberline {26.3}Simultaneity}{91}{}%
-\contentsline {subsection}{\numberline {26.4}Time Dilation and the Twin Paradox}{91}{}%
-\contentsline {subsection}{\numberline {26.5}Length Contraction}{92}{}%
-\contentsline {subsection}{\numberline {26.6}Four-Dimensional Space-Time}{92}{}%
-\contentsline {subsection}{\numberline {26.7}Relativistic Momentum}{92}{}%
-\contentsline {subsection}{\numberline {26.8}The Ultimate Speed}{92}{}%
-\contentsline {subsection}{\numberline {26.9}\(e=mc^2\); Mass and Energy}{93}{}%
-\contentsline {subsection}{\numberline {26.10}Relativistic Addition of Velocities}{93}{}%
-\contentsline {subsection}{\numberline {26.11}The Impact of Special Relativity}{93}{}%
-\contentsline {section}{\numberline {27}Early Quantum Theory and Models of the Atom}{94}{}%
-\contentsline {subsection}{\numberline {27.1}Discovery and Properties of the Electron}{94}{}%
-\contentsline {subsection}{\numberline {27.2}Blackbody Radiation; Plank's Quantum Hypothesis}{94}{}%
-\contentsline {subsection}{\numberline {27.3}Photon Theory and Light and the Photoelectric Effect}{94}{}%
-\contentsline {subsection}{\numberline {27.4}Energy, Mass, and the Momentum of a Photon}{95}{}%
-\contentsline {subsection}{\numberline {27.5}Compton Effect}{95}{}%
-\contentsline {subsection}{\numberline {27.6}Photon Interactions; Pair Production}{95}{}%
-\contentsline {subsection}{\numberline {27.7}Wave-Particle Duality; the Principle of Complementarity}{95}{}%
-\contentsline {subsection}{\numberline {27.8}Wave Nature of Matter}{96}{}%
-\contentsline {subsection}{\numberline {27.9}Electron Microscopes}{96}{}%
-\contentsline {subsection}{\numberline {27.10}Early Models of the Atom}{96}{}%
-\contentsline {subsection}{\numberline {27.11}Atomic Spectra: Key to the Structure of the Atom}{96}{}%
-\contentsline {subsection}{\numberline {27.12}The Bohr Model}{96}{}%
-\contentsline {subsection}{\numberline {27.13}de Broglie's Hypothesis Applied to Atoms}{97}{}%
-\contentsline {section}{\numberline {28}Quantum Mechanics of Atoms}{98}{}%
-\contentsline {subsection}{\numberline {28.1}Quantum Mechanics- A New Theory}{98}{}%
-\contentsline {subsection}{\numberline {28.2}The Wave Function and Its Interpretation; the Double-Slit Experiment}{98}{}%
-\contentsline {subsection}{\numberline {28.3}The Heisenberg Uncertainty Principle}{98}{}%
-\contentsline {subsection}{\numberline {28.4}Philosophic Implications: Probability Versus Determinism}{98}{}%
-\contentsline {subsection}{\numberline {28.5}Quantum-Mechanical View of Atoms}{98}{}%
-\contentsline {subsection}{\numberline {28.6}Quantum Mechanics of the Hydrogen Atom; Quantum Numbers}{98}{}%
-\contentsline {subsection}{\numberline {28.7}Multielectron Atoms; the Exclusion Principle}{99}{}%
-\contentsline {subsection}{\numberline {28.8}The Periodic Table of Elements}{99}{}%
-\contentsline {subsection}{\numberline {28.9}X-Ray Spectra and the Atomic Number}{99}{}%
-\contentsline {subsection}{\numberline {28.10}Fluorescence and Phosphorescence}{99}{}%
-\contentsline {subsection}{\numberline {28.11}Lasers}{100}{}%
-\contentsline {subsection}{\numberline {28.12}Holography}{100}{}%
-\contentsline {section}{\numberline {29}Molecules and Solids}{101}{}%
-\contentsline {subsection}{\numberline {29.1}Bonding in Molecules}{101}{}%
-\contentsline {subsection}{\numberline {29.2}Potential-Energy Diagrams for Molecules}{101}{}%
-\contentsline {subsection}{\numberline {29.3}Weak (van der Waals) Bonds}{101}{}%
-\contentsline {subsection}{\numberline {29.4}Molecular Spectra}{102}{}%
-\contentsline {subsection}{\numberline {29.5}Bonding in Solids}{102}{}%
-\contentsline {subsection}{\numberline {29.6}Free-Electron Theory of Metals; Fermi Energy}{102}{}%
-\contentsline {subsection}{\numberline {29.7}Band Theory of Solids}{103}{}%
-\contentsline {subsection}{\numberline {29.8}Semiconductors and Doping}{103}{}%
-\contentsline {subsection}{\numberline {29.9}Semiconductor Diodes, LEDS, OLEDs}{103}{}%
-\contentsline {subsection}{\numberline {29.10}Transistors: Bipolar and MOSFETs}{104}{}%
-\contentsline {subsection}{\numberline {29.11}Integrated Circuits, 22-nm Technology}{104}{}%
-\contentsline {section}{\numberline {30}Nuclear Physics and Radioactivity}{105}{}%
-\contentsline {subsection}{\numberline {30.1}Structure and Properties of the Nucleus}{105}{}%
-\contentsline {subsection}{\numberline {30.2}Binding Energy and Nuclear Forces}{105}{}%
-\contentsline {subsection}{\numberline {30.3}Radioactivity}{105}{}%
-\contentsline {subsection}{\numberline {30.4}Alpha Decay}{106}{}%
-\contentsline {subsection}{\numberline {30.5}Beta Decay}{106}{}%
-\contentsline {subsection}{\numberline {30.6}Gamma Decay}{106}{}%
-\contentsline {subsection}{\numberline {30.7}Conservation of Nucleon Number and Other Conservative Laws}{106}{}%
-\contentsline {subsection}{\numberline {30.8}Half-Life and Rate of Decay}{107}{}%
-\contentsline {subsection}{\numberline {30.9}Calculations Involving Decay Rates and Half-Life}{107}{}%
-\contentsline {subsection}{\numberline {30.10}Decay Series}{107}{}%
-\contentsline {subsection}{\numberline {30.11}Radioactive Dating}{107}{}%
-\contentsline {subsection}{\numberline {30.12}Stability and Tunneling}{107}{}%
-\contentsline {subsection}{\numberline {30.13}Detection of Particles}{108}{}%
-\contentsline {section}{\numberline {31}Nuclear Energy; Effects and Uses of Radiation}{109}{}%
-\contentsline {subsection}{\numberline {31.1}Nuclear Reactions and the Transmutation of Elements}{109}{}%
-\contentsline {subsection}{\numberline {31.2}Nuclear Fission: Nuclear Reactors}{109}{}%
-\contentsline {subsection}{\numberline {31.3}Nuclear Fusion}{110}{}%
-\contentsline {subsection}{\numberline {31.4}Passage of Radiation Through Matter: Biological Damage}{110}{}%
-\contentsline {subsection}{\numberline {31.5}Measurement of Radiation-Dosimetry}{110}{}%
-\contentsline {subsection}{\numberline {31.6}Radiation Therapy}{111}{}%
-\contentsline {subsection}{\numberline {31.7}Tracers in Research and Medicine}{111}{}%
-\contentsline {subsection}{\numberline {31.8}Emission Tomography: PET and SPECT}{111}{}%
-\contentsline {subsection}{\numberline {31.9}Nuclear Magnetic Resonance (NMR) and Magnetic Resonance Imagine (MRI)}{111}{}%
-\contentsline {section}{\numberline {32}Elementary Particles}{112}{}%
-\contentsline {subsection}{\numberline {32.1}High-Energy Particles and Accelerators}{112}{}%
-\contentsline {subsection}{\numberline {32.2}Beginning of Elementary Particle Physics - Particle Exchange}{112}{}%
-\contentsline {subsection}{\numberline {32.3}Particles and Antiparticles}{113}{}%
-\contentsline {subsection}{\numberline {32.4}Particle Interactions and Conservation Laws}{113}{}%
-\contentsline {subsection}{\numberline {32.5}Neutrinos}{113}{}%
-\contentsline {subsection}{\numberline {32.6}Particle Classification}{113}{}%
-\contentsline {subsection}{\numberline {32.7}Particle Stability and Resonances}{113}{}%
-\contentsline {subsection}{\numberline {32.8}Strangeness? Charm? Towards a New Model}{113}{}%
-\contentsline {subsection}{\numberline {32.9}Quarks}{114}{}%
-\contentsline {subsection}{\numberline {32.10}The Standard Model: QCD and Electroweak Theory}{114}{}%
-\contentsline {subsection}{\numberline {32.11}Grand United Theories}{114}{}%
-\contentsline {subsection}{\numberline {32.12}Strings and Supersymmetry}{114}{}%
-\contentsline {section}{\numberline {33}Astrophysics and Cosmology}{115}{}%
-\contentsline {subsection}{\numberline {33.1}Stars and Galaxies}{115}{}%
-\contentsline {subsection}{\numberline {33.2}Stellar Evolution: Birth and Death of Stars, Nucleosynthesis}{115}{}%
-\contentsline {subsection}{\numberline {33.3}Distance Measurements}{115}{}%
-\contentsline {subsection}{\numberline {33.4}General Relativity: Gravity and the Curvature of Space}{116}{}%
-\contentsline {subsection}{\numberline {33.5}The Expanding Universe: Red shift and Hubble's Law}{116}{}%
-\contentsline {subsection}{\numberline {33.6}The Big Bang and the Cosmic Microwave Background}{117}{}%
-\contentsline {subsection}{\numberline {33.7}The Standard Cosmological Model: Early History of the Universe}{117}{}%
-\contentsline {subsection}{\numberline {33.8}Inflation: Explaining Flatness, Uniformity, and Structure}{117}{}%
-\contentsline {subsection}{\numberline {33.9}Dark Matter and Dark Energy}{117}{}%
-\contentsline {subsection}{\numberline {33.10}Large-Scale Structure of the Universe}{118}{}%
-\contentsline {subsection}{\numberline {33.11}Finally...}{118}{}%
+\contentsline {section}{\numberline {1}Introduction, Measurement, Estimating}{8}{}%
+\contentsline {subsection}{\numberline {1.1}The Nature of Science}{8}{}%
+\contentsline {subsection}{\numberline {1.2}Physics and its Relation to Other Fields}{8}{}%
+\contentsline {subsection}{\numberline {1.3}Models, Theories, and Laws}{8}{}%
+\contentsline {subsection}{\numberline {1.4}Measurement and Uncertainty; Significant Figures}{8}{}%
+\contentsline {subsection}{\numberline {1.5}Units, Standards, and the SI System}{9}{}%
+\contentsline {subsection}{\numberline {1.6}Converting Units}{10}{}%
+\contentsline {subsection}{\numberline {1.7}Order of Magnitude: Rapid Estimating}{10}{}%
+\contentsline {subsection}{\numberline {1.8}Dimensions and Dimensional Analysis}{10}{}%
+\contentsline {section}{\numberline {2}Describing Motion: Kinematics in One Dimension}{11}{}%
+\contentsline {subsection}{\numberline {2.1}Reference Frames and Displacement}{11}{}%
+\contentsline {subsection}{\numberline {2.2}Average Velocity}{11}{}%
+\contentsline {subsection}{\numberline {2.3}Instantaneous Velocity}{11}{}%
+\contentsline {subsection}{\numberline {2.4}Acceleration}{12}{}%
+\contentsline {subsection}{\numberline {2.5}Motion and Constant Acceleration}{12}{}%
+\contentsline {subsection}{\numberline {2.6}Solving Problems}{12}{}%
+\contentsline {subsection}{\numberline {2.7}Freely Falling Objects}{13}{}%
+\contentsline {subsection}{\numberline {2.8}Graphical Analysis of Linear Motion}{13}{}%
+\contentsline {section}{\numberline {3}Kinematics in Two Dimensions; Vectors}{14}{}%
+\contentsline {subsection}{\numberline {3.1}Vectors and Scalars}{14}{}%
+\contentsline {subsection}{\numberline {3.2}Addition of Vectors - Graphical Methods}{14}{}%
+\contentsline {subsection}{\numberline {3.3}Subtraction of Vectors, and Multiplication of a Vector by a Scalar}{14}{}%
+\contentsline {subsection}{\numberline {3.4}Adding Vectors by Components}{14}{}%
+\contentsline {subsection}{\numberline {3.5}Projectile Motion}{15}{}%
+\contentsline {subsection}{\numberline {3.6}Solving Projectile Motion Problems}{15}{}%
+\contentsline {subsection}{\numberline {3.7}Projectile Motion is Parabolic}{15}{}%
+\contentsline {subsection}{\numberline {3.8}Relative Velocity}{16}{}%
+\contentsline {section}{\numberline {4}Dynamics: Newton's Laws of Motion}{17}{}%
+\contentsline {subsection}{\numberline {4.1}Force}{17}{}%
+\contentsline {subsection}{\numberline {4.2}Newton's First Law of Motion}{17}{}%
+\contentsline {subsection}{\numberline {4.3}Mass}{17}{}%
+\contentsline {subsection}{\numberline {4.4}Newton's Second Law of Motion}{17}{}%
+\contentsline {subsection}{\numberline {4.5}Newton's Third Law of Motion}{18}{}%
+\contentsline {subsection}{\numberline {4.6}Weight - the Force of Gravity; and the Normal Force}{18}{}%
+\contentsline {subsection}{\numberline {4.7}Solving the Problems with Newton's Laws; Free-Body Diagram}{18}{}%
+\contentsline {subsection}{\numberline {4.8}Problems Involving Friction, Inclines}{18}{}%
+\contentsline {section}{\numberline {5}Circular Motion; Gravitation}{20}{}%
+\contentsline {subsection}{\numberline {5.1}Kinematics of Uniform Circular Motion}{20}{}%
+\contentsline {subsection}{\numberline {5.2}Dynamics of Uniform Circular Motion}{20}{}%
+\contentsline {subsection}{\numberline {5.3}Highway Curves: Banked and Unbanked}{20}{}%
+\contentsline {subsection}{\numberline {5.4}Nonuniform Circular Motion}{20}{}%
+\contentsline {subsection}{\numberline {5.5}Newton's Law of Universal Gravitation}{21}{}%
+\contentsline {subsection}{\numberline {5.6}Gravity Near the Earth's Surface}{21}{}%
+\contentsline {subsection}{\numberline {5.7}Satellites and "Weightlessness"}{21}{}%
+\contentsline {subsection}{\numberline {5.8}Planets, Kepler's Laws, and Newton's Synthesis}{22}{}%
+\contentsline {subsection}{\numberline {5.9}Moon Rises an Hour Later Each Day}{22}{}%
+\contentsline {subsection}{\numberline {5.10}Types of Forces in Nature}{22}{}%
+\contentsline {section}{\numberline {6}Work and Energy}{23}{}%
+\contentsline {subsection}{\numberline {6.1}Work Done by a Constant Force}{23}{}%
+\contentsline {subsection}{\numberline {6.2}Work Done by a Varying Force}{23}{}%
+\contentsline {subsection}{\numberline {6.3}Kinetic Energy, and the Work-Energy Principle}{23}{}%
+\contentsline {subsection}{\numberline {6.4}Potential Energy}{23}{}%
+\contentsline {subsection}{\numberline {6.5}Conservative and Nonconservative Forces}{24}{}%
+\contentsline {subsection}{\numberline {6.6}Mechanical Energy and its Conservation}{24}{}%
+\contentsline {subsection}{\numberline {6.7}Problem Solving Using Conservation of Mechanical Energy}{24}{}%
+\contentsline {subsection}{\numberline {6.8}Other Forms of Energy and Energy Transformations, the Law of Conservation of Energy}{24}{}%
+\contentsline {subsection}{\numberline {6.9}Energy Conservation with Dissipative Forces: Solving Problems}{25}{}%
+\contentsline {subsection}{\numberline {6.10}Power}{25}{}%
+\contentsline {section}{\numberline {7}Linear Momentum}{26}{}%
+\contentsline {subsection}{\numberline {7.1}Momentum and its Relation to Force}{26}{}%
+\contentsline {subsection}{\numberline {7.2}Conservation of Momentum}{26}{}%
+\contentsline {subsection}{\numberline {7.3}Collisions and Impulse}{26}{}%
+\contentsline {subsection}{\numberline {7.4}Conservation of Energy and Momentum in Collisions}{26}{}%
+\contentsline {subsection}{\numberline {7.5}Elastic Collisions in One Dimension}{26}{}%
+\contentsline {subsection}{\numberline {7.6}Inelastic Collisions}{27}{}%
+\contentsline {subsection}{\numberline {7.7}Collisions in Two Dimensions}{27}{}%
+\contentsline {subsection}{\numberline {7.8}Center of Mass (CM)}{27}{}%
+\contentsline {subsection}{\numberline {7.9}CM for the Human Body}{27}{}%
+\contentsline {subsection}{\numberline {7.10}CM and Translational Motion}{27}{}%
+\contentsline {section}{\numberline {8}Rotational Motion}{28}{}%
+\contentsline {subsection}{\numberline {8.1}Angular Quantities}{28}{}%
+\contentsline {subsection}{\numberline {8.2}Constant Angular Acceleration}{28}{}%
+\contentsline {subsection}{\numberline {8.3}Rolling Motion (Without Slipping)}{28}{}%
+\contentsline {subsection}{\numberline {8.4}Torque}{29}{}%
+\contentsline {subsection}{\numberline {8.5}Rotational Dynamics; Torque and Rotational Inertia}{29}{}%
+\contentsline {subsection}{\numberline {8.6}Solving Problems in Rotational Dynamics}{29}{}%
+\contentsline {subsection}{\numberline {8.7}Rotational Kinetic Energy}{29}{}%
+\contentsline {subsection}{\numberline {8.8}Angular Momentum and Its Conservation}{30}{}%
+\contentsline {subsection}{\numberline {8.9}Vector Nature of Angular Quantities}{30}{}%
+\contentsline {section}{\numberline {9}Static Equilibrium; Elasticity and Fracture}{31}{}%
+\contentsline {subsection}{\numberline {9.1}The Conditions of Equilibrium}{31}{}%
+\contentsline {subsection}{\numberline {9.2}Solving Statics Problems}{31}{}%
+\contentsline {subsection}{\numberline {9.3}Applications to muscles and joints}{31}{}%
+\contentsline {subsection}{\numberline {9.4}Stability and balance}{31}{}%
+\contentsline {subsection}{\numberline {9.5}Elasticity; Stress and Strain}{31}{}%
+\contentsline {subsection}{\numberline {9.6}Fracture}{32}{}%
+\contentsline {subsection}{\numberline {9.7}Spanning a Space: Arched and Domes}{32}{}%
+\contentsline {section}{\numberline {10}Fluids}{33}{}%
+\contentsline {subsection}{\numberline {10.1}Phases of Matter}{33}{}%
+\contentsline {subsection}{\numberline {10.2}Density and Specific Gravity}{33}{}%
+\contentsline {subsection}{\numberline {10.3}Pressure in Fluids}{33}{}%
+\contentsline {subsection}{\numberline {10.4}Atmospheric pressure and Guage Pressure}{33}{}%
+\contentsline {subsection}{\numberline {10.5}Pascal’s Principle}{34}{}%
+\contentsline {subsection}{\numberline {10.6}Measurement of Pressure: Gauges and Barometer}{34}{}%
+\contentsline {subsection}{\numberline {10.7}Buoyancy and Archimedes’ Principle}{34}{}%
+\contentsline {subsection}{\numberline {10.8}Fluids in motion; FlowRate and the Equation of Continuity}{34}{}%
+\contentsline {subsection}{\numberline {10.9}Bernoulli’s Equation}{35}{}%
+\contentsline {subsection}{\numberline {10.10}Applications if Bernoulli’s Principle Torricelli, Airplanes, Baseballs, Blood Flow}{35}{}%
+\contentsline {subsection}{\numberline {10.11}Viscosity}{35}{}%
+\contentsline {subsection}{\numberline {10.12}Flow in Tubes: Poiseuille's Equation, Blood Flow}{36}{}%
+\contentsline {subsection}{\numberline {10.13}Surface Tension and Capillarity}{36}{}%
+\contentsline {subsection}{\numberline {10.14}Pumps and the Heart}{36}{}%
+\contentsline {section}{\numberline {11}Oscillators and Waves}{37}{}%
+\contentsline {subsection}{\numberline {11.1}Simple Harmonic Motion - Spring Oscillations}{37}{}%
+\contentsline {subsection}{\numberline {11.2}Energy in Simple Harmonic Motion}{37}{}%
+\contentsline {subsection}{\numberline {11.3}The Period and Sinusoidal Nature of SHM}{37}{}%
+\contentsline {subsection}{\numberline {11.4}The Simple Pendulum}{38}{}%
+\contentsline {subsection}{\numberline {11.5}Damped Harmonic Motion}{38}{}%
+\contentsline {subsection}{\numberline {11.6}Forced Oscillations; Resonance}{39}{}%
+\contentsline {subsection}{\numberline {11.7}Wave Motion}{39}{}%
+\contentsline {subsection}{\numberline {11.8}Types of Waves and their Speeds: Transverse and Longitudinal}{39}{}%
+\contentsline {subsection}{\numberline {11.9}Energy Transported by Waves}{40}{}%
+\contentsline {subsection}{\numberline {11.10}Reflection and Transmission of Waves}{40}{}%
+\contentsline {subsection}{\numberline {11.11}Interference; Principle of Superposition}{41}{}%
+\contentsline {subsection}{\numberline {11.12}Standing Waves; Resonance}{41}{}%
+\contentsline {subsection}{\numberline {11.13}Refraction}{41}{}%
+\contentsline {subsection}{\numberline {11.14}Diffraction}{41}{}%
+\contentsline {subsection}{\numberline {11.15}Mathematical Representation of a Travelling Wave}{41}{}%
+\contentsline {section}{\numberline {12}Sounds}{42}{}%
+\contentsline {subsection}{\numberline {12.1}Characteristics of Sound}{42}{}%
+\contentsline {subsection}{\numberline {12.2}Intensity of Sound: Decibels}{42}{}%
+\contentsline {subsection}{\numberline {12.3}The Ear and its Response; Loudness}{42}{}%
+\contentsline {subsection}{\numberline {12.4}Sources of Sound; Vibrating Strings and Air Columns}{43}{}%
+\contentsline {subsection}{\numberline {12.5}Quality of Sound, and Noise; Superposition}{43}{}%
+\contentsline {subsection}{\numberline {12.6}Interference of Sound Waves; Beats}{43}{}%
+\contentsline {subsection}{\numberline {12.7}Doppler Effect}{44}{}%
+\contentsline {subsection}{\numberline {12.8}Shock Waves and the Sonic Boom}{44}{}%
+\contentsline {subsection}{\numberline {12.9}Applications: Sonar, Ultrasound, and Medical Imaging}{44}{}%
+\contentsline {section}{\numberline {13}Temperature and Kinetic Energy}{45}{}%
+\contentsline {subsection}{\numberline {13.1}Atomic Theory of Matter}{45}{}%
+\contentsline {subsection}{\numberline {13.2}Temperature and Thermometers}{45}{}%
+\contentsline {subsection}{\numberline {13.3}Thermal Equilibrium and the Zeroth Law of Thermodynamics}{45}{}%
+\contentsline {subsection}{\numberline {13.4}Thermal Expansion}{46}{}%
+\contentsline {subsection}{\numberline {13.5}The Gas Laws and Absolute Temperature}{46}{}%
+\contentsline {subsection}{\numberline {13.6}The Ideal Gas Law}{47}{}%
+\contentsline {subsection}{\numberline {13.7}Problem Solving with The Ideal Gas Law}{47}{}%
+\contentsline {subsection}{\numberline {13.8}Ideal Gas Law in Terms of Molecules; Avogadro's Number}{47}{}%
+\contentsline {subsection}{\numberline {13.9}Kinetic Theory and the Molecular Interpretation of Temperature}{47}{}%
+\contentsline {subsection}{\numberline {13.10}Distribution of Molecular Speeds}{48}{}%
+\contentsline {subsection}{\numberline {13.11}Real gases and Changes of Phase}{48}{}%
+\contentsline {subsection}{\numberline {13.12}Vapor Pressure and Humidity}{48}{}%
+\contentsline {subsection}{\numberline {13.13}Diffusion}{49}{}%
+\contentsline {section}{\numberline {14}Heat}{50}{}%
+\contentsline {subsection}{\numberline {14.1}Heat as Energy Transfer}{50}{}%
+\contentsline {subsection}{\numberline {14.2}Internal Energy}{50}{}%
+\contentsline {subsection}{\numberline {14.3}Specific Heat}{50}{}%
+\contentsline {subsection}{\numberline {14.4}Calorimetry - Solving Problems}{51}{}%
+\contentsline {subsection}{\numberline {14.5}Latent Heat}{51}{}%
+\contentsline {subsection}{\numberline {14.6}Heat Transfer: Conduction}{51}{}%
+\contentsline {subsection}{\numberline {14.7}Heat Transfer: Convection}{52}{}%
+\contentsline {subsection}{\numberline {14.8}Heat Transfer: Radiation}{52}{}%
+\contentsline {section}{\numberline {15}The Laws of Thermodynamics}{53}{}%
+\contentsline {subsection}{\numberline {15.1}The First Law of Thermodynamics}{53}{}%
+\contentsline {subsection}{\numberline {15.2}Thermodynamic Processes and the First Law}{53}{}%
+\contentsline {subsection}{\numberline {15.3}Human Metabolism and the First Law}{53}{}%
+\contentsline {subsection}{\numberline {15.4}The Second Law of Thermodynamics - Introduction}{53}{}%
+\contentsline {subsection}{\numberline {15.5}Heat Engines}{54}{}%
+\contentsline {subsection}{\numberline {15.6}Refrigerators, Air Conditioners, and Heat Pumps}{54}{}%
+\contentsline {subsection}{\numberline {15.7}Entropy and the Second Law of Thermodynamics}{55}{}%
+\contentsline {subsection}{\numberline {15.8}Order to Disorder}{55}{}%
+\contentsline {subsection}{\numberline {15.9}Unavailability of Energy; Heat Death}{55}{}%
+\contentsline {subsection}{\numberline {15.10}Statistical Interpretation of Energy and the Second Law}{55}{}%
+\contentsline {subsection}{\numberline {15.11}Thermal Pollution, Global Warming, and the Energy Resources}{55}{}%
+\contentsline {section}{\numberline {16}Electric Charge and Electric Field}{56}{}%
+\contentsline {subsection}{\numberline {16.1}Static Electricity; Electric Charge and its Conservation}{56}{}%
+\contentsline {subsection}{\numberline {16.2}Electric Charge in the Atom}{56}{}%
+\contentsline {subsection}{\numberline {16.3}Insulators and Conductors}{56}{}%
+\contentsline {subsection}{\numberline {16.4}Induced Charge; the Electroscope}{56}{}%
+\contentsline {subsection}{\numberline {16.5}Coulomb's Law}{56}{}%
+\contentsline {subsection}{\numberline {16.6}Solving Problems Involving Coulomb's Law and Vectors}{57}{}%
+\contentsline {subsection}{\numberline {16.7}The Electric Field}{57}{}%
+\contentsline {subsection}{\numberline {16.8}Electric Field Lines}{58}{}%
+\contentsline {subsection}{\numberline {16.9}Electric Field and Conductors}{58}{}%
+\contentsline {subsection}{\numberline {16.10}Electric and Molecular Biology: DNA Structure and Replication}{58}{}%
+\contentsline {subsection}{\numberline {16.11}Photocopy Machines and Computer Printers Use Electrostatics}{58}{}%
+\contentsline {subsection}{\numberline {16.12}Gauss's Law}{58}{}%
+\contentsline {section}{\numberline {17}Electric Potential}{60}{}%
+\contentsline {subsection}{\numberline {17.1}Electric Potential Energy and Potential Difference}{60}{}%
+\contentsline {subsection}{\numberline {17.2}Relation Between Electric Potential and Electric Field}{60}{}%
+\contentsline {subsection}{\numberline {17.3}Equipotential Lines and Surfaces}{60}{}%
+\contentsline {subsection}{\numberline {17.4}The Electron Volt, a Unit of Energy}{61}{}%
+\contentsline {subsection}{\numberline {17.5}Electric Potential Due to Point Charges}{61}{}%
+\contentsline {subsection}{\numberline {17.6}Potential Due to Electric Dipole; Dipole Moment}{61}{}%
+\contentsline {subsection}{\numberline {17.7}Capacitance}{61}{}%
+\contentsline {subsection}{\numberline {17.8}Dielectrics}{62}{}%
+\contentsline {subsection}{\numberline {17.9}Storage of Electric Energy}{62}{}%
+\contentsline {subsection}{\numberline {17.10}Digital; Binary Numbers; Signal Voltage}{62}{}%
+\contentsline {subsection}{\numberline {17.11}TV and Computer Monitors; CRTs, Flat Screens}{63}{}%
+\contentsline {subsection}{\numberline {17.12}Electrocardiogram}{63}{}%
+\contentsline {section}{\numberline {18}Electric Currents}{64}{}%
+\contentsline {subsection}{\numberline {18.1}The Electric Battery}{64}{}%
+\contentsline {subsection}{\numberline {18.2}Electric Current}{64}{}%
+\contentsline {subsection}{\numberline {18.3}Ohm's Law: Resistance and Resistors}{64}{}%
+\contentsline {subsection}{\numberline {18.4}Resistivity}{65}{}%
+\contentsline {subsection}{\numberline {18.5}Electric Power}{65}{}%
+\contentsline {subsection}{\numberline {18.6}Power in Household Circuits}{65}{}%
+\contentsline {subsection}{\numberline {18.7}Alternating Current}{65}{}%
+\contentsline {subsection}{\numberline {18.8}Microscopic View of Electric Current}{66}{}%
+\contentsline {subsection}{\numberline {18.9}Superconductivity}{66}{}%
+\contentsline {subsection}{\numberline {18.10}Electrical Conduction in the Human Nervous System}{66}{}%
+\contentsline {section}{\numberline {19}DC Circuits}{67}{}%
+\contentsline {subsection}{\numberline {19.1}EMF and Terminal Voltage}{67}{}%
+\contentsline {subsection}{\numberline {19.2}Resistors in Series and Parallel}{67}{}%
+\contentsline {subsection}{\numberline {19.3}Kirchhoff's Rules}{67}{}%
+\contentsline {subsection}{\numberline {19.4}EMFs in Series and in Parallel; Charging a Battery}{67}{}%
+\contentsline {subsection}{\numberline {19.5}Circuits Containing Capacitors in Series and in Parallel}{68}{}%
+\contentsline {subsection}{\numberline {19.6}RC Circuits - Resistor and Capacitor Series}{68}{}%
+\contentsline {subsection}{\numberline {19.7}Electric Hazards}{68}{}%
+\contentsline {subsection}{\numberline {19.8}Ammeters and Voltmeters - Measurement Affects the Quantity being Measured}{69}{}%
+\contentsline {section}{\numberline {20}Magnetism}{70}{}%
+\contentsline {subsection}{\numberline {20.1}Magnets and Magnetic Field}{70}{}%
+\contentsline {subsection}{\numberline {20.2}Electric Currents Produce Magnetic Fields}{70}{}%
+\contentsline {subsection}{\numberline {20.3}Force on an Electric Current in a Magnetic Field; Definition of \textbf {B}}{70}{}%
+\contentsline {subsection}{\numberline {20.4}Force on an Electric Charges Moving in Magnetic Field}{70}{}%
+\contentsline {subsection}{\numberline {20.5}Magnetic Field Due to a Long Straight Wire}{71}{}%
+\contentsline {subsection}{\numberline {20.6}Force Between Two Parallel Wires}{71}{}%
+\contentsline {subsection}{\numberline {20.7}Solenoids and Electromagnets}{71}{}%
+\contentsline {subsection}{\numberline {20.8}Ampere's Law}{71}{}%
+\contentsline {subsection}{\numberline {20.9}Torque on a Current Loop; Magnetic Moment}{72}{}%
+\contentsline {subsection}{\numberline {20.10}Applications: Motors, Loudspeakers, Galvanometers}{72}{}%
+\contentsline {subsection}{\numberline {20.11}Mass Spectrometer}{72}{}%
+\contentsline {subsection}{\numberline {20.12}Ferromagnetism: Domains and Hysteresis}{73}{}%
+\contentsline {section}{\numberline {21}Electromagnetic Induction and Faraday's Law}{74}{}%
+\contentsline {subsection}{\numberline {21.1}Induced EMF}{74}{}%
+\contentsline {subsection}{\numberline {21.2}Faraday's Law of Induction; Lenz's Law}{74}{}%
+\contentsline {subsection}{\numberline {21.3}EMF Induced in a Moving Conductor}{74}{}%
+\contentsline {subsection}{\numberline {21.4}Changing Magnetic Flux Produces Electric Field}{74}{}%
+\contentsline {subsection}{\numberline {21.5}Electric Generators}{74}{}%
+\contentsline {subsection}{\numberline {21.6}Back EMF and Counter Torque; Eddy Currents}{75}{}%
+\contentsline {subsection}{\numberline {21.7}Transformers and Transmission of Power}{75}{}%
+\contentsline {subsection}{\numberline {21.8}Information Storage: Magnetic and Semiconductor; Tape, Hard Drive, RAM}{75}{}%
+\contentsline {subsection}{\numberline {21.9}Applications of Induction: Microphone, Seismograph, GFCI}{76}{}%
+\contentsline {subsection}{\numberline {21.10}Inductance}{76}{}%
+\contentsline {subsection}{\numberline {21.11}Energy Stored in a Magnetic Field}{76}{}%
+\contentsline {subsection}{\numberline {21.12}LR Circuits}{77}{}%
+\contentsline {subsection}{\numberline {21.13}AC Circuits and Inductance}{77}{}%
+\contentsline {subsection}{\numberline {21.14}LRC Series AC Circuit}{77}{}%
+\contentsline {subsection}{\numberline {21.15}Resonance in AC Circuits}{78}{}%
+\contentsline {section}{\numberline {22}Electromagnetic Waves}{79}{}%
+\contentsline {subsection}{\numberline {22.1}Changing Electric Fields Produce Magnetic Fields; Maxwell's Equations}{79}{}%
+\contentsline {subsection}{\numberline {22.2}Production of Electromagnetic Waves}{79}{}%
+\contentsline {subsection}{\numberline {22.3}Light as an Electromagnetic Wave and the Electromagnetic Spectrum}{79}{}%
+\contentsline {subsection}{\numberline {22.4}Measuring the Speed of Light}{80}{}%
+\contentsline {subsection}{\numberline {22.5}Energy in EM Waves}{80}{}%
+\contentsline {subsection}{\numberline {22.6}Momentum Transfer and Radiation Pressure}{80}{}%
+\contentsline {subsection}{\numberline {22.7}Radio and Television; Wireless Communication}{80}{}%
+\contentsline {section}{\numberline {23}Light: Geometric Optics}{82}{}%
+\contentsline {subsection}{\numberline {23.1}The Ray Model of Light}{82}{}%
+\contentsline {subsection}{\numberline {23.2}Reflection; Image Formation by a Plane Mirror}{82}{}%
+\contentsline {subsection}{\numberline {23.3}Formation of Images by Spherical Mirrors}{82}{}%
+\contentsline {subsection}{\numberline {23.4}Index of Refraction}{83}{}%
+\contentsline {subsection}{\numberline {23.5}Refraction: Snell's Law}{84}{}%
+\contentsline {subsection}{\numberline {23.6}Total Internal Reflection; Fiber Optics}{84}{}%
+\contentsline {subsection}{\numberline {23.7}Thin Lenses; Ray Tracing}{84}{}%
+\contentsline {subsection}{\numberline {23.8}The Thin Lens Equation}{85}{}%
+\contentsline {subsection}{\numberline {23.9}Combinations of Lenses}{85}{}%
+\contentsline {subsection}{\numberline {23.10}Lensmaker's Equation}{85}{}%
+\contentsline {section}{\numberline {24}The Wave Nature of Light}{86}{}%
+\contentsline {subsection}{\numberline {24.1}Waves vs. Particles; Huygen's Principle and Diffraction}{86}{}%
+\contentsline {subsection}{\numberline {24.2}Huygen's Principle and Law of Refraction}{86}{}%
+\contentsline {subsection}{\numberline {24.3}Interference - Young's Double-Slit Experiment}{86}{}%
+\contentsline {subsection}{\numberline {24.4}The Visible Spectrum and Dispersion}{86}{}%
+\contentsline {subsection}{\numberline {24.5}Diffraction by a Single Slit or Disk}{87}{}%
+\contentsline {subsection}{\numberline {24.6}Diffraction Grating}{87}{}%
+\contentsline {subsection}{\numberline {24.7}The Spectrometer and Spectroscopy}{87}{}%
+\contentsline {subsection}{\numberline {24.8}Interference in Thin Films}{87}{}%
+\contentsline {subsection}{\numberline {24.9}Michelson Interferometer}{88}{}%
+\contentsline {subsection}{\numberline {24.10}Polarization}{88}{}%
+\contentsline {subsection}{\numberline {24.11}Liquid Crystal Displays}{88}{}%
+\contentsline {subsection}{\numberline {24.12}Scattering of Light by the Atmosphere}{88}{}%
+\contentsline {section}{\numberline {25}Optical Instruments}{89}{}%
+\contentsline {subsection}{\numberline {25.1}Cameras: Films and Digital}{89}{}%
+\contentsline {subsection}{\numberline {25.2}The Human Eye; Corrective Lenses}{89}{}%
+\contentsline {subsection}{\numberline {25.3}Magnifying Glass}{89}{}%
+\contentsline {subsection}{\numberline {25.4}Telescopes}{90}{}%
+\contentsline {subsection}{\numberline {25.5}Compound Microscope}{90}{}%
+\contentsline {subsection}{\numberline {25.6}Aberrations of Lenses and Mirrors}{90}{}%
+\contentsline {subsection}{\numberline {25.7}Limits of Resolution; Circular Apertures}{90}{}%
+\contentsline {subsection}{\numberline {25.8}Resolution of Telescopes the \(\lambda \) Limit}{90}{}%
+\contentsline {subsection}{\numberline {25.9}Resolution of the Human Eyes and Useful Magnification}{90}{}%
+\contentsline {subsection}{\numberline {25.10}Specialty Microscopes and Contrast}{91}{}%
+\contentsline {subsection}{\numberline {25.11}X-Rays and X-Ray Diffraction }{91}{}%
+\contentsline {subsection}{\numberline {25.12}X-Ray Imaging and the Computed Tomography (CT Scan)}{91}{}%
+\contentsline {section}{\numberline {26}The Special Theory of Relativity}{92}{}%
+\contentsline {subsection}{\numberline {26.1}Galilean-Newtonian Relativity}{92}{}%
+\contentsline {subsection}{\numberline {26.2}Postulates of the Special Theory of Relativity}{92}{}%
+\contentsline {subsection}{\numberline {26.3}Simultaneity}{92}{}%
+\contentsline {subsection}{\numberline {26.4}Time Dilation and the Twin Paradox}{92}{}%
+\contentsline {subsection}{\numberline {26.5}Length Contraction}{93}{}%
+\contentsline {subsection}{\numberline {26.6}Four-Dimensional Space-Time}{93}{}%
+\contentsline {subsection}{\numberline {26.7}Relativistic Momentum}{93}{}%
+\contentsline {subsection}{\numberline {26.8}The Ultimate Speed}{93}{}%
+\contentsline {subsection}{\numberline {26.9}\(e=mc^2\); Mass and Energy}{94}{}%
+\contentsline {subsection}{\numberline {26.10}Relativistic Addition of Velocities}{94}{}%
+\contentsline {subsection}{\numberline {26.11}The Impact of Special Relativity}{94}{}%
+\contentsline {section}{\numberline {27}Early Quantum Theory and Models of the Atom}{95}{}%
+\contentsline {subsection}{\numberline {27.1}Discovery and Properties of the Electron}{95}{}%
+\contentsline {subsection}{\numberline {27.2}Blackbody Radiation; Plank's Quantum Hypothesis}{95}{}%
+\contentsline {subsection}{\numberline {27.3}Photon Theory and Light and the Photoelectric Effect}{95}{}%
+\contentsline {subsection}{\numberline {27.4}Energy, Mass, and the Momentum of a Photon}{96}{}%
+\contentsline {subsection}{\numberline {27.5}Compton Effect}{96}{}%
+\contentsline {subsection}{\numberline {27.6}Photon Interactions; Pair Production}{96}{}%
+\contentsline {subsection}{\numberline {27.7}Wave-Particle Duality; the Principle of Complementarity}{96}{}%
+\contentsline {subsection}{\numberline {27.8}Wave Nature of Matter}{97}{}%
+\contentsline {subsection}{\numberline {27.9}Electron Microscopes}{97}{}%
+\contentsline {subsection}{\numberline {27.10}Early Models of the Atom}{97}{}%
+\contentsline {subsection}{\numberline {27.11}Atomic Spectra: Key to the Structure of the Atom}{97}{}%
+\contentsline {subsection}{\numberline {27.12}The Bohr Model}{97}{}%
+\contentsline {subsection}{\numberline {27.13}de Broglie's Hypothesis Applied to Atoms}{98}{}%
+\contentsline {section}{\numberline {28}Quantum Mechanics of Atoms}{99}{}%
+\contentsline {subsection}{\numberline {28.1}Quantum Mechanics- A New Theory}{99}{}%
+\contentsline {subsection}{\numberline {28.2}The Wave Function and Its Interpretation; the Double-Slit Experiment}{99}{}%
+\contentsline {subsection}{\numberline {28.3}The Heisenberg Uncertainty Principle}{99}{}%
+\contentsline {subsection}{\numberline {28.4}Philosophic Implications: Probability Versus Determinism}{99}{}%
+\contentsline {subsection}{\numberline {28.5}Quantum-Mechanical View of Atoms}{99}{}%
+\contentsline {subsection}{\numberline {28.6}Quantum Mechanics of the Hydrogen Atom; Quantum Numbers}{99}{}%
+\contentsline {subsection}{\numberline {28.7}Multielectron Atoms; the Exclusion Principle}{100}{}%
+\contentsline {subsection}{\numberline {28.8}The Periodic Table of Elements}{100}{}%
+\contentsline {subsection}{\numberline {28.9}X-Ray Spectra and the Atomic Number}{100}{}%
+\contentsline {subsection}{\numberline {28.10}Fluorescence and Phosphorescence}{100}{}%
+\contentsline {subsection}{\numberline {28.11}Lasers}{101}{}%
+\contentsline {subsection}{\numberline {28.12}Holography}{101}{}%
+\contentsline {section}{\numberline {29}Molecules and Solids}{102}{}%
+\contentsline {subsection}{\numberline {29.1}Bonding in Molecules}{102}{}%
+\contentsline {subsection}{\numberline {29.2}Potential-Energy Diagrams for Molecules}{102}{}%
+\contentsline {subsection}{\numberline {29.3}Weak (van der Waals) Bonds}{102}{}%
+\contentsline {subsection}{\numberline {29.4}Molecular Spectra}{103}{}%
+\contentsline {subsection}{\numberline {29.5}Bonding in Solids}{103}{}%
+\contentsline {subsection}{\numberline {29.6}Free-Electron Theory of Metals; Fermi Energy}{103}{}%
+\contentsline {subsection}{\numberline {29.7}Band Theory of Solids}{104}{}%
+\contentsline {subsection}{\numberline {29.8}Semiconductors and Doping}{104}{}%
+\contentsline {subsection}{\numberline {29.9}Semiconductor Diodes, LEDS, OLEDs}{104}{}%
+\contentsline {subsection}{\numberline {29.10}Transistors: Bipolar and MOSFETs}{105}{}%
+\contentsline {subsection}{\numberline {29.11}Integrated Circuits, 22-nm Technology}{105}{}%
+\contentsline {section}{\numberline {30}Nuclear Physics and Radioactivity}{106}{}%
+\contentsline {subsection}{\numberline {30.1}Structure and Properties of the Nucleus}{106}{}%
+\contentsline {subsection}{\numberline {30.2}Binding Energy and Nuclear Forces}{106}{}%
+\contentsline {subsection}{\numberline {30.3}Radioactivity}{106}{}%
+\contentsline {subsection}{\numberline {30.4}Alpha Decay}{107}{}%
+\contentsline {subsection}{\numberline {30.5}Beta Decay}{107}{}%
+\contentsline {subsection}{\numberline {30.6}Gamma Decay}{107}{}%
+\contentsline {subsection}{\numberline {30.7}Conservation of Nucleon Number and Other Conservative Laws}{107}{}%
+\contentsline {subsection}{\numberline {30.8}Half-Life and Rate of Decay}{108}{}%
+\contentsline {subsection}{\numberline {30.9}Calculations Involving Decay Rates and Half-Life}{108}{}%
+\contentsline {subsection}{\numberline {30.10}Decay Series}{108}{}%
+\contentsline {subsection}{\numberline {30.11}Radioactive Dating}{108}{}%
+\contentsline {subsection}{\numberline {30.12}Stability and Tunneling}{108}{}%
+\contentsline {subsection}{\numberline {30.13}Detection of Particles}{109}{}%
+\contentsline {section}{\numberline {31}Nuclear Energy; Effects and Uses of Radiation}{110}{}%
+\contentsline {subsection}{\numberline {31.1}Nuclear Reactions and the Transmutation of Elements}{110}{}%
+\contentsline {subsection}{\numberline {31.2}Nuclear Fission: Nuclear Reactors}{110}{}%
+\contentsline {subsection}{\numberline {31.3}Nuclear Fusion}{111}{}%
+\contentsline {subsection}{\numberline {31.4}Passage of Radiation Through Matter: Biological Damage}{111}{}%
+\contentsline {subsection}{\numberline {31.5}Measurement of Radiation-Dosimetry}{111}{}%
+\contentsline {subsection}{\numberline {31.6}Radiation Therapy}{112}{}%
+\contentsline {subsection}{\numberline {31.7}Tracers in Research and Medicine}{112}{}%
+\contentsline {subsection}{\numberline {31.8}Emission Tomography: PET and SPECT}{112}{}%
+\contentsline {subsection}{\numberline {31.9}Nuclear Magnetic Resonance (NMR) and Magnetic Resonance Imagine (MRI)}{112}{}%
+\contentsline {section}{\numberline {32}Elementary Particles}{113}{}%
+\contentsline {subsection}{\numberline {32.1}High-Energy Particles and Accelerators}{113}{}%
+\contentsline {subsection}{\numberline {32.2}Beginning of Elementary Particle Physics - Particle Exchange}{113}{}%
+\contentsline {subsection}{\numberline {32.3}Particles and Antiparticles}{114}{}%
+\contentsline {subsection}{\numberline {32.4}Particle Interactions and Conservation Laws}{114}{}%
+\contentsline {subsection}{\numberline {32.5}Neutrinos}{114}{}%
+\contentsline {subsection}{\numberline {32.6}Particle Classification}{114}{}%
+\contentsline {subsection}{\numberline {32.7}Particle Stability and Resonances}{114}{}%
+\contentsline {subsection}{\numberline {32.8}Strangeness? Charm? Towards a New Model}{114}{}%
+\contentsline {subsection}{\numberline {32.9}Quarks}{115}{}%
+\contentsline {subsection}{\numberline {32.10}The Standard Model: QCD and Electroweak Theory}{115}{}%
+\contentsline {subsection}{\numberline {32.11}Grand United Theories}{115}{}%
+\contentsline {subsection}{\numberline {32.12}Strings and Supersymmetry}{115}{}%
+\contentsline {section}{\numberline {33}Astrophysics and Cosmology}{116}{}%
+\contentsline {subsection}{\numberline {33.1}Stars and Galaxies}{116}{}%
+\contentsline {subsection}{\numberline {33.2}Stellar Evolution: Birth and Death of Stars, Nucleosynthesis}{116}{}%
+\contentsline {subsection}{\numberline {33.3}Distance Measurements}{116}{}%
+\contentsline {subsection}{\numberline {33.4}General Relativity: Gravity and the Curvature of Space}{117}{}%
+\contentsline {subsection}{\numberline {33.5}The Expanding Universe: Red shift and Hubble's Law}{117}{}%
+\contentsline {subsection}{\numberline {33.6}The Big Bang and the Cosmic Microwave Background}{118}{}%
+\contentsline {subsection}{\numberline {33.7}The Standard Cosmological Model: Early History of the Universe}{118}{}%
+\contentsline {subsection}{\numberline {33.8}Inflation: Explaining Flatness, Uniformity, and Structure}{118}{}%
+\contentsline {subsection}{\numberline {33.9}Dark Matter and Dark Energy}{118}{}%
+\contentsline {subsection}{\numberline {33.10}Large-Scale Structure of the Universe}{119}{}%
+\contentsline {subsection}{\numberline {33.11}Finally...}{119}{}%
